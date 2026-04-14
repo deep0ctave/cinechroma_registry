@@ -1,0 +1,121 @@
+/* ────────────────────────────────────────────────────────────────────────────
+   GLOBAL STYLES — cinechroma registry
+   
+   Design system:
+   - Dark-first: film colors pop against dark backgrounds (like a cinema)
+   - Light mode available via toggle
+   - Typography: "Inter" for body, "Playfair Display" for display headings
+   - Colors as CSS variables, swapped via .dark class on <html>
+   - Generous spacing — let the color visuals breathe
+   ──────────────────────────────────────────────────────────────────────────── */
+
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ── Theme tokens ──────────────────────────────────────────────────────── */
+@theme {
+  --color-bg: #ffffff;
+  --color-bg-subtle: #fafaf8;
+  --color-bg-card: #f5f5f3;
+  --color-text: #1a1a1a;
+  --color-text-secondary: #555555;
+  --color-text-tertiary: #999999;
+  --color-border: #e8e8e8;
+  --color-border-light: #f0f0f0;
+  --color-accent: #1a1a1a;
+
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-serif: "Playfair Display", "Georgia", serif;
+}
+
+/* ── Dark mode — the default experience ────────────────────────────────── */
+.dark {
+  --color-bg: #0a0a0a;
+  --color-bg-subtle: #111111;
+  --color-bg-card: #141414;
+  --color-text: #e8e8e8;
+  --color-text-secondary: #a0a0a0;
+  --color-text-tertiary: #666666;
+  --color-border: #222222;
+  --color-border-light: #1a1a1a;
+  --color-accent: #e8e8e8;
+}
+
+/* ── Base ──────────────────────────────────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+::selection {
+  background-color: var(--color-text);
+  color: var(--color-bg);
+}
+
+/* ── Scrollbar ─────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #ccc; border-radius: 3px; }
+.dark ::-webkit-scrollbar-thumb { background: #333; }
+::-webkit-scrollbar-thumb:hover { background: #999; }
+.dark ::-webkit-scrollbar-thumb:hover { background: #555; }
+
+/* ── Link underline animation ──────────────────────────────────────────── */
+.link-underline {
+  position: relative;
+  text-decoration: none;
+}
+.link-underline::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background-color: var(--color-text);
+  transition: width 0.3s ease;
+}
+.link-underline:hover::after {
+  width: 100%;
+}
+
+/* ── Hairline divider ──────────────────────────────────────────────────── */
+.hairline {
+  height: 1px;
+  background-color: var(--color-border);
+}
+
+/* ── Movie card hover — subtle lift + glow using the movie's own colors ─ */
+.movie-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.movie-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(255, 255, 255, 0.06);
+}
+
+/* ── Color strip image — crisp pixel rendering for the barcode look ──── */
+.strip-image {
+  image-rendering: auto;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ── Palette swatch — hover to reveal hex value ────────────────────────── */
+.swatch-label {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+.swatch:hover .swatch-label {
+  opacity: 1;
+}

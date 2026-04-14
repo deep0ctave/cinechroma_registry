@@ -1,0 +1,143 @@
+---
+/**
+ * [slug].astro — Dynamic movie detail page.
+ *
+ * Generated at build time for each movie via getStaticPaths().
+ * Shows the full color analysis: large strip, palette breakdown
+ * by luminance band (light / medium / dark / overall), and
+ * the palette grid image from cinechroma.
+ *
+ * The palette section uses large swatches so you can really
+ * appreciate each color. Hex values appear on hover.
+ */
+import Layout from "../../layouts/Layout.astro";
+import movies from "../../data/movies.json";
+
+export function getStaticPaths() {
+  return movies.map((movie) => ({
+    params: { slug: movie.slug },
+    props: { movie },
+  }));
+}
+
+const { movie } = Astro.props;
+
+/* Band labels — human-friendly names for each luminance band */
+const bandLabels = {
+  overall: "Overall",
+  light: "Highlights",
+  medium: "Midtones",
+  dark: "Shadows",
+};
+
+/* Order we want to display the bands */
+const bandOrder = ["overall", "light", "medium", "dark"];
+---
+
+<Layout
+  title={`${movie.title} (${movie.year}) — cinechroma`}
+  description={`Color analysis of ${movie.title} (${movie.year}). ${movie.frameCount} frames analyzed.`}
+  ogUrl={`https://cinechroma.avinashaldhapati.com/movie/${movie.slug}/`}
+>
+  <!-- Back link -->
+  <a
+    href="/"
+    class="inline-flex items-center gap-1 text-sm text-text-tertiary hover:text-text transition-colors mb-8 group"
+  >
+    <svg class="w-4 h-4 group-hover:-translate-x-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+    </svg>
+    all films
+  </a>
+
+  <!-- Title section -->
+  <section class="mb-10 md:mb-14">
+    <h1 class="font-serif text-3xl sm:text-4xl md:text-5xl tracking-tight text-text mb-2">
+      {movie.title}
+    </h1>
+    <div class="flex items-center gap-4 text-sm text-text-tertiary">
+      <span>{movie.year}</span>
+      <span class="w-1 h-1 rounded-full bg-text-tertiary"></span>
+      <span>{movie.frameCount.toLocaleString()} frames analyzed</span>
+    </div>
+  </section>
+
+  <!-- Color strip — full width, the visual fingerprint -->
+  <section class="mb-14 md:mb-20">
+    <h2 class="text-xs uppercase tracking-widest text-text-tertiary mb-4">
+      Color Timeline
+    </h2>
+    <div class="w-full h-20 sm:h-28 md:h-36 rounded-lg overflow-hidden border border-border">
+      <img
+        src={`/movies/${movie.slug}/strip.png`}
+        alt={`Color timeline for ${movie.title}`}
+        class="strip-image"
+      />
+    </div>
+    <p class="text-xs text-text-tertiary mt-3">
+      Each vertical line represents one frame's dominant color, left to right from opening to credits.
+    </p>
+  </section>
+
+  <!-- Palette breakdown — 4 luminance bands -->
+  <section class="mb-14 md:mb-20">
+    <h2 class="text-xs uppercase tracking-widest text-text-tertiary mb-8">
+      Color Palettes
+    </h2>
+
+    <div class="space-y-10">
+      {bandOrder.map((band) => {
+        const colors = movie.palettes?.[band] || [];
+        if (colors.length === 0) return null;
+
+        return (
+          <div>
+            <h3 class="text-sm font-medium text-text-secondary mb-3">
+              {bandLabels[band]}
+              <span class="text-text-tertiary font-normal ml-2 text-xs">
+                {band === "overall"
+                  ? "all luminance levels combined"
+                  : band === "light"
+                    ? "L > 70 — bright areas, highlights, skies"
+                    : band === "medium"
+                      ? "30 < L ≤ 70 — skin tones, environments"
+                      : "L ≤ 30 — shadows, mood, night scenes"}
+              </span>
+            </h3>
+            <div class="flex gap-2 sm:gap-3">
+              {colors.map((hex) => (
+                <div class="swatch group flex-1 max-w-[120px]">
+                  <div
+                    class="aspect-square rounded-lg border border-white/10 cursor-pointer"
+                    style={`background-color: ${hex};`}
+                    title={hex}
+                  />
+                  <p class="swatch-label text-[10px] text-text-tertiary text-center mt-1.5 font-mono">
+                    {hex}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- Palette grid image -->
+  <section class="mb-14 md:mb-20">
+    <h2 class="text-xs uppercase tracking-widest text-text-tertiary mb-4">
+      Palette Grid
+    </h2>
+    <div class="max-w-md rounded-lg overflow-hidden border border-border">
+      <img
+        src={`/movies/${movie.slug}/palette.png`}
+        alt={`Palette grid for ${movie.title}`}
+        class="w-full"
+      />
+    </div>
+    <p class="text-xs text-text-tertiary mt-3">
+      Rows top → bottom: highlights, midtones, shadows, overall. Five dominant colors per band.
+    </p>
+  </section>
+</Layout>

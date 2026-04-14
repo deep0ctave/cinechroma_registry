@@ -1,0 +1,45 @@
+---
+/**
+ * index.astro — Homepage / gallery page.
+ *
+ * Shows every analyzed movie in a responsive grid. Each card features
+ * the color strip (the visual fingerprint) with the title, year, and
+ * palette dots below. Movies are sorted newest-first.
+ *
+ * The hero section sets the tone: this site is about seeing films
+ * through their colors, not their plots.
+ */
+import Layout from "../layouts/Layout.astro";
+import MovieCard from "../components/MovieCard.astro";
+import movies from "../data/movies.json";
+---
+
+<Layout>
+  <!-- Hero section -->
+  <section class="mb-16 md:mb-24">
+    <h1 class="font-serif text-4xl sm:text-5xl md:text-6xl tracking-tight text-text mb-4">
+      cinechroma
+    </h1>
+    <p class="text-text-secondary text-base md:text-lg max-w-xl leading-relaxed">
+      Every film has a color story. We extract it frame by frame — dominant
+      hues, luminance bands, full palettes — and lay it bare as a visual
+      fingerprint.
+    </p>
+    <p class="text-text-tertiary text-sm mt-3">
+      {movies.length} films analyzed
+    </p>
+  </section>
+
+  <!-- Movie grid -->
+  <section>
+    <h2 class="text-xs uppercase tracking-widest text-text-tertiary mb-8">
+      Collection
+    </h2>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
+      {movies.map((movie) => (
+        <MovieCard movie={movie} />
+      ))}
+    </div>
+  </section>
+</Layout>

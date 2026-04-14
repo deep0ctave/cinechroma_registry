@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- A film-strip inspired favicon: colored bars evoking the cinechroma strip -->
+  <rect width="32" height="32" rx="4" fill="#0a0a0a"/>
+  <rect x="4" y="6" width="3" height="20" rx="1" fill="#c26a4a"/>
+  <rect x="9" y="6" width="3" height="20" rx="1" fill="#3b7a8c"/>
+  <rect x="14" y="6" width="3" height="20" rx="1" fill="#d4a843"/>
+  <rect x="19" y="6" width="3" height="20" rx="1" fill="#5c4a6e"/>
+  <rect x="24" y="6" width="3" height="20" rx="1" fill="#7a9a5a"/>
+</svg>

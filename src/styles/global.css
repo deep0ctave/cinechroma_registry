@@ -103,6 +103,68 @@ body {
   box-shadow: 0 8px 30px rgba(255, 255, 255, 0.06);
 }
 
+/* ── Search UI — compact, tactile, and consistent with the gallery ────── */
+.search-shell {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.8rem 0.9rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: linear-gradient(180deg, color-mix(in srgb, var(--color-bg-card) 92%, transparent), var(--color-bg-card));
+  transition: border-color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.search-shell:focus-within {
+  border-color: color-mix(in srgb, var(--color-text) 30%, var(--color-border));
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-text) 8%, transparent);
+}
+
+.search-icon {
+  width: 1.1rem;
+  height: 1.1rem;
+  color: var(--color-text-tertiary);
+  flex-shrink: 0;
+}
+
+.search-input {
+  width: 100%;
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--color-text);
+}
+
+.search-input::placeholder {
+  color: var(--color-text-tertiary);
+}
+
+.search-input::-webkit-search-cancel-button {
+  display: none;
+}
+
+.search-clear {
+  border: 0;
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.search-clear:hover {
+  color: var(--color-text);
+}
+
+.search-empty-state {
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  background-color: var(--color-bg-card);
+}
+
 /* ── Color strip image — crisp pixel rendering for the barcode look ──── */
 .strip-image {
   image-rendering: auto;

@@ -1,5 +1,41 @@
 [
   {
+    "title": "Hoppers",
+    "year": 2026,
+    "slug": "hoppers-2026",
+    "frameCount": 2889,
+    "palettes": {
+      "light": [
+        "#a8b8ae",
+        "#9fb2b0",
+        "#b0b39d",
+        "#b9ae86",
+        "#caaa69"
+      ],
+      "medium": [
+        "#876635",
+        "#5e594d",
+        "#849797",
+        "#b35c19",
+        "#4c729e"
+      ],
+      "dark": [
+        "#1e272b",
+        "#25170f",
+        "#3d321c",
+        "#0e223f",
+        "#542709"
+      ],
+      "overall": [
+        "#2a221b",
+        "#5c4122",
+        "#18293f",
+        "#7b8c92",
+        "#a66529"
+      ]
+    }
+  },
+  {
     "title": "Black Phone 2",
     "year": 2025,
     "slug": "black-phone-2-2025",
@@ -68,6 +104,150 @@
         "#483928",
         "#475358",
         "#878781"
+      ]
+    }
+  },
+  {
+    "title": "Frankenstein",
+    "year": 2025,
+    "slug": "frankenstein-2025",
+    "frameCount": 4573,
+    "palettes": {
+      "light": [
+        "#abcfd1",
+        "#8cc3db",
+        "#cbcdb7",
+        "#dcc792",
+        "#f0bb66"
+      ],
+      "medium": [
+        "#3b6371",
+        "#6b96a3",
+        "#486050",
+        "#746340",
+        "#9c632d"
+      ],
+      "dark": [
+        "#121a14",
+        "#243525",
+        "#261e11",
+        "#1e3339",
+        "#482e16"
+      ],
+      "overall": [
+        "#181e18",
+        "#324c49",
+        "#47331b",
+        "#79a1ab",
+        "#a9834f"
+      ]
+    }
+  },
+  {
+    "title": "rabbit trap",
+    "year": 2025,
+    "slug": "rabbit-trap-2025",
+    "frameCount": 2637,
+    "palettes": {
+      "light": [
+        "#a5babc",
+        "#c7d4d4",
+        "#b4bdab",
+        "#66e8d9",
+        "#e0b380"
+      ],
+      "medium": [
+        "#545c56",
+        "#829289",
+        "#715741",
+        "#536b51",
+        "#3a5f7c"
+      ],
+      "dark": [
+        "#171718",
+        "#2d1c18",
+        "#313335",
+        "#492f21",
+        "#2d392d"
+      ],
+      "overall": [
+        "#1f1b1b",
+        "#3b4543",
+        "#656f5f",
+        "#4c3325",
+        "#9caea8"
+      ]
+    }
+  },
+  {
+    "title": "Resurrection",
+    "year": 2025,
+    "slug": "resurrection-2025",
+    "frameCount": 4783,
+    "palettes": {
+      "light": [
+        "#cebfa6",
+        "#dedcd6",
+        "#b0bcc6",
+        "#cfbb84",
+        "#f9a56c"
+      ],
+      "medium": [
+        "#8a6d41",
+        "#525a5a",
+        "#869190",
+        "#4069a5",
+        "#b13510"
+      ],
+      "dark": [
+        "#191d1e",
+        "#3b2d1a",
+        "#162745",
+        "#3b0904",
+        "#671104"
+      ],
+      "overall": [
+        "#24211d",
+        "#81663d",
+        "#651509",
+        "#253b5e",
+        "#a5a8a2"
+      ]
+    }
+  },
+  {
+    "title": "Sinners",
+    "year": 2025,
+    "slug": "sinners-2025",
+    "frameCount": 4126,
+    "palettes": {
+      "light": [
+        "#b6b7a9",
+        "#cfccbc",
+        "#e8e2cd",
+        "#d6c29a",
+        "#ebc164"
+      ],
+      "medium": [
+        "#535b60",
+        "#665947",
+        "#8c938c",
+        "#8e5419",
+        "#9e8b6d"
+      ],
+      "dark": [
+        "#191612",
+        "#321f12",
+        "#36362f",
+        "#1c2832",
+        "#542d0e"
+      ],
+      "overall": [
+        "#1d1b18",
+        "#545551",
+        "#3e2614",
+        "#b9b4a0",
+        "#7f4a18"
       ]
     }
   },
@@ -180,6 +360,114 @@
     }
   },
   {
+    "title": "Monolith",
+    "year": 2023,
+    "slug": "monolith-2023",
+    "frameCount": 2836,
+    "palettes": {
+      "light": [
+        "#b7d7e1",
+        "#9ebbba",
+        "#9bbbc9",
+        "#d4e8ed",
+        "#ccbc8f"
+      ],
+      "medium": [
+        "#3f595f",
+        "#577b80",
+        "#7d9da4",
+        "#725d34",
+        "#366489"
+      ],
+      "dark": [
+        "#18272d",
+        "#0e1417",
+        "#273e46",
+        "#1e1a0f",
+        "#3e2d17"
+      ],
+      "overall": [
+        "#171d1e",
+        "#2d464f",
+        "#5d8086",
+        "#a2c0c6",
+        "#46371c"
+      ]
+    }
+  },
+  {
+    "title": "Oppenheimer",
+    "year": 2023,
+    "slug": "oppenheimer-2023",
+    "frameCount": 5406,
+    "palettes": {
+      "light": [
+        "#b8be9d",
+        "#e6e1c2",
+        "#c1c2b9",
+        "#d4c18e",
+        "#eabf4b"
+      ],
+      "medium": [
+        "#525b52",
+        "#858a81",
+        "#6d5b3f",
+        "#979776",
+        "#935e1e"
+      ],
+      "dark": [
+        "#151a18",
+        "#2d3636",
+        "#2c2218",
+        "#333a27",
+        "#4e3216"
+      ],
+      "overall": [
+        "#1d1f1b",
+        "#434a3e",
+        "#838472",
+        "#c7c4a5",
+        "#634422"
+      ]
+    }
+  },
+  {
+    "title": "Poor Things",
+    "year": 2023,
+    "slug": "poor-things-2023",
+    "frameCount": 4249,
+    "palettes": {
+      "light": [
+        "#bbbbb2",
+        "#e1ded4",
+        "#d9c091",
+        "#a9c9d0",
+        "#e9b449"
+      ],
+      "medium": [
+        "#5c5c58",
+        "#929185",
+        "#7e5425",
+        "#b07b2e",
+        "#4b7987"
+      ],
+      "dark": [
+        "#1b1816",
+        "#331b0c",
+        "#353632",
+        "#542c0c",
+        "#142c3f"
+      ],
+      "overall": [
+        "#24201e",
+        "#5b6564",
+        "#522e12",
+        "#b6b6aa",
+        "#a47432"
+      ]
+    }
+  },
+  {
     "title": "Everything Everywhere All At Once",
     "year": 2022,
     "slug": "everything-everywhere-all-at-once-2022",
@@ -248,6 +536,78 @@
         "#c3bcae",
         "#7e7468",
         "#9a642a"
+      ]
+    }
+  },
+  {
+    "title": "Possessor - Uncut",
+    "year": 2020,
+    "slug": "possessor-uncut-2020",
+    "frameCount": 3127,
+    "palettes": {
+      "light": [
+        "#d5dad3",
+        "#abbdb6",
+        "#c7bea1",
+        "#e8d529",
+        "#39daed"
+      ],
+      "medium": [
+        "#5b594d",
+        "#b78b07",
+        "#81897b",
+        "#864f27",
+        "#1c56c2"
+      ],
+      "dark": [
+        "#1e1815",
+        "#412b1c",
+        "#343533",
+        "#5d1613",
+        "#03117f"
+      ],
+      "overall": [
+        "#251d1a",
+        "#554233",
+        "#8c9589",
+        "#b68809",
+        "#081e8b"
+      ]
+    }
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "slug": "parasite-2019",
+    "frameCount": 3955,
+    "palettes": {
+      "light": [
+        "#dfe0d4",
+        "#b0bdbd",
+        "#c2baa7",
+        "#c4d698",
+        "#dfb78c"
+      ],
+      "medium": [
+        "#5e5845",
+        "#918d80",
+        "#845932",
+        "#586067",
+        "#67783b"
+      ],
+      "dark": [
+        "#191914",
+        "#2d1b11",
+        "#343525",
+        "#4f2b15",
+        "#1f273a"
+      ],
+      "overall": [
+        "#1e1c18",
+        "#402716",
+        "#51544a",
+        "#7a5932",
+        "#a7a697"
       ]
     }
   },
@@ -324,6 +684,78 @@
     }
   },
   {
+    "title": "Moonlight",
+    "year": 2016,
+    "slug": "moonlight-2016",
+    "frameCount": 3326,
+    "palettes": {
+      "light": [
+        "#b1bdae",
+        "#d5dbce",
+        "#9ec5bc",
+        "#c7c398",
+        "#b8c067"
+      ],
+      "medium": [
+        "#4d605d",
+        "#6b5538",
+        "#7f9991",
+        "#88846a",
+        "#6f8244"
+      ],
+      "dark": [
+        "#141717",
+        "#32382b",
+        "#2e1f17",
+        "#4e321c",
+        "#1d3341"
+      ],
+      "overall": [
+        "#1e1f1f",
+        "#abbaab",
+        "#523c26",
+        "#495f5f",
+        "#7b7c57"
+      ]
+    }
+  },
+  {
+    "title": "Mad Max Fury Road",
+    "year": 2015,
+    "slug": "mad-max-fury-road-2015",
+    "frameCount": 3609,
+    "palettes": {
+      "light": [
+        "#edd7dd",
+        "#bebbc5",
+        "#debeb4",
+        "#e5b190",
+        "#eca769"
+      ],
+      "medium": [
+        "#af6121",
+        "#7a5233",
+        "#c1875c",
+        "#808991",
+        "#0e579f"
+      ],
+      "dark": [
+        "#1e1a15",
+        "#402a19",
+        "#5d2a0c",
+        "#013271",
+        "#041e3f"
+      ],
+      "overall": [
+        "#2a2018",
+        "#6a3e20",
+        "#c07a43",
+        "#c3b4b5",
+        "#0a376e"
+      ]
+    }
+  },
+  {
     "title": "Banshee Chapter",
     "year": 2013,
     "slug": "banshee-chapter-2013",
@@ -356,6 +788,114 @@
         "#5d646c",
         "#bdc2c3",
         "#957b50"
+      ]
+    }
+  },
+  {
+    "title": "God Bless America",
+    "year": 2011,
+    "slug": "god-bless-america-2011",
+    "frameCount": 3128,
+    "palettes": {
+      "light": [
+        "#c9c2a6",
+        "#bdcbcf",
+        "#d6c182",
+        "#e4c14b",
+        "#98d37d"
+      ],
+      "medium": [
+        "#61593c",
+        "#92896f",
+        "#925631",
+        "#7f7f3a",
+        "#64707c"
+      ],
+      "dark": [
+        "#1c1a14",
+        "#3c3820",
+        "#33190e",
+        "#562914",
+        "#242c37"
+      ],
+      "overall": [
+        "#27211b",
+        "#5d583b",
+        "#5a2f1a",
+        "#a0a195",
+        "#a99552"
+      ]
+    }
+  },
+  {
+    "title": "Pandorum",
+    "year": 2009,
+    "slug": "pandorum-2009",
+    "frameCount": 3240,
+    "palettes": {
+      "light": [
+        "#d5cdca",
+        "#b3c4ca",
+        "#73d7de",
+        "#82e6b6",
+        "#d8c463"
+      ],
+      "medium": [
+        "#5b5953",
+        "#306d88",
+        "#8b9093",
+        "#955122",
+        "#2b7a52"
+      ],
+      "dark": [
+        "#121a1b",
+        "#1f3636",
+        "#372c21",
+        "#0c284a",
+        "#610a09"
+      ],
+      "overall": [
+        "#19201f",
+        "#495651",
+        "#9db0b2",
+        "#12365a",
+        "#6f2714"
+      ]
+    }
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "slug": "no-country-for-old-men-2007",
+    "frameCount": 3662,
+    "palettes": {
+      "light": [
+        "#e2e4c9",
+        "#bfc19e",
+        "#cec090",
+        "#b3c6b3",
+        "#d8be73"
+      ],
+      "medium": [
+        "#665d44",
+        "#a08d62",
+        "#8e957a",
+        "#7b562c",
+        "#4c6860"
+      ],
+      "dark": [
+        "#191710",
+        "#2f2113",
+        "#3a3828",
+        "#4d3118",
+        "#192c30"
+      ],
+      "overall": [
+        "#221f18",
+        "#543c22",
+        "#9c8f67",
+        "#cdd0b1",
+        "#5d6453"
       ]
     }
   },
@@ -396,6 +936,42 @@
     }
   },
   {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "slug": "pans-labyrinth-2006",
+    "frameCount": 3578,
+    "palettes": {
+      "light": [
+        "#cabe92",
+        "#e6ddc4",
+        "#d5bb71",
+        "#abc7b6",
+        "#ebbb33"
+      ],
+      "medium": [
+        "#645826",
+        "#266c70",
+        "#8e5818",
+        "#9f8b4f",
+        "#676b56"
+      ],
+      "dark": [
+        "#1c160d",
+        "#091b1e",
+        "#322f17",
+        "#0f363e",
+        "#4b2c0b"
+      ],
+      "overall": [
+        "#131918",
+        "#342913",
+        "#73551f",
+        "#235457",
+        "#b4a778"
+      ]
+    }
+  },
+  {
     "title": "City Of God",
     "year": 2002,
     "slug": "city-of-god-2002",
@@ -428,6 +1004,42 @@
         "#4f5c73",
         "#a8b9c3",
         "#ab9a6c"
+      ]
+    }
+  },
+  {
+    "title": "O Brother, Where Art Thou",
+    "year": 2000,
+    "slug": "o-brother-where-art-thou-2000",
+    "frameCount": 3212,
+    "palettes": {
+      "light": [
+        "#e2e5d3",
+        "#d8cb99",
+        "#b9c9c8",
+        "#c2baa0",
+        "#d9bf6a"
+      ],
+      "medium": [
+        "#67563b",
+        "#98896c",
+        "#7e5326",
+        "#9f823e",
+        "#6a787d"
+      ],
+      "dark": [
+        "#382b1a",
+        "#21150c",
+        "#4b3819",
+        "#502610",
+        "#1e2b39"
+      ],
+      "overall": [
+        "#2b2119",
+        "#5d4021",
+        "#a28345",
+        "#797365",
+        "#ccccb5"
       ]
     }
   },
@@ -504,6 +1116,42 @@
     }
   },
   {
+    "title": "Fargo",
+    "year": 1996,
+    "slug": "fargo-1996",
+    "frameCount": 2945,
+    "palettes": {
+      "light": [
+        "#afbac3",
+        "#c3cfda",
+        "#dfe6eb",
+        "#98bcdb",
+        "#bdc8a4"
+      ],
+      "medium": [
+        "#555655",
+        "#7d7c78",
+        "#8e9aa6",
+        "#735844",
+        "#566b86"
+      ],
+      "dark": [
+        "#1a1817",
+        "#393632",
+        "#2a1912",
+        "#492e1e",
+        "#253249"
+      ],
+      "overall": [
+        "#251d18",
+        "#494c4e",
+        "#7f8285",
+        "#b6c2cc",
+        "#59402e"
+      ]
+    }
+  },
+  {
     "title": "Chungking Express",
     "year": 1994,
     "slug": "chungking-express-1994",
@@ -536,6 +1184,42 @@
         "#465c88",
         "#9eafc3",
         "#804925"
+      ]
+    }
+  },
+  {
+    "title": "Schindlers List",
+    "year": 1993,
+    "slug": "schindlers-list-1993",
+    "frameCount": 5851,
+    "palettes": {
+      "light": [
+        "#d6d6d6",
+        "#c3c3c3",
+        "#e8e8e8",
+        "#b3b2b3",
+        "#ccd9f7"
+      ],
+      "medium": [
+        "#505050",
+        "#656566",
+        "#7e7e7e",
+        "#9a9a9b",
+        "#635a43"
+      ],
+      "dark": [
+        "#1b1b1b",
+        "#252525",
+        "#313131",
+        "#131313",
+        "#3f3f3e"
+      ],
+      "overall": [
+        "#1c1c1c",
+        "#3a3a39",
+        "#616060",
+        "#919191",
+        "#d0d0d1"
       ]
     }
   },
@@ -972,6 +1656,78 @@
     }
   },
   {
+    "title": "Lawrence Of Arabia",
+    "year": 1962,
+    "slug": "lawrence-of-arabia-1962",
+    "frameCount": 6804,
+    "palettes": {
+      "light": [
+        "#bab5b1",
+        "#c4b5a3",
+        "#a9b7ca",
+        "#dad2d5",
+        "#e2b282"
+      ],
+      "medium": [
+        "#5b524d",
+        "#7c7069",
+        "#a39288",
+        "#6b84a3",
+        "#855d43"
+      ],
+      "dark": [
+        "#281e1a",
+        "#120f11",
+        "#403934",
+        "#282934",
+        "#49281d"
+      ],
+      "overall": [
+        "#201a1a",
+        "#4a3f3b",
+        "#7c6659",
+        "#ac9f97",
+        "#6b819f"
+      ]
+    }
+  },
+  {
+    "title": "La Dolce Vita",
+    "year": 1960,
+    "slug": "la-dolce-vita-1960",
+    "frameCount": 5268,
+    "palettes": {
+      "light": [
+        "#bfbfbf",
+        "#b5b5b5",
+        "#cdcdcd",
+        "#aeaeae",
+        "#dedede"
+      ],
+      "medium": [
+        "#838383",
+        "#6f6f6f",
+        "#5d5d5d",
+        "#4d4d4d",
+        "#9d9d9d"
+      ],
+      "dark": [
+        "#151515",
+        "#222222",
+        "#2d2d2d",
+        "#373737",
+        "#414141"
+      ],
+      "overall": [
+        "#1d1d1d",
+        "#3e3e3e",
+        "#646464",
+        "#8b8b8b",
+        "#bcbcbc"
+      ]
+    }
+  },
+  {
     "title": "12 Angry Men",
     "year": 1957,
     "slug": "12-angry-men-1957",
@@ -1004,6 +1760,78 @@
         "#535353",
         "#797878",
         "#ababab"
+      ]
+    }
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954,
+    "slug": "rear-window-1954",
+    "frameCount": 3373,
+    "palettes": {
+      "light": [
+        "#cfb7a0",
+        "#b5b8b0",
+        "#dadacd",
+        "#afbdce",
+        "#cbcd8d"
+      ],
+      "medium": [
+        "#5d554c",
+        "#8e8578",
+        "#5d6374",
+        "#855742",
+        "#1327e0"
+      ],
+      "dark": [
+        "#241817",
+        "#3f342a",
+        "#3a363b",
+        "#241f2e",
+        "#46221a"
+      ],
+      "overall": [
+        "#291d1d",
+        "#4e453d",
+        "#8f887d",
+        "#4e5164",
+        "#774b39"
+      ]
+    }
+  },
+  {
+    "title": "Singin' In The Rain",
+    "year": 1952,
+    "slug": "singin-in-the-rain-1952",
+    "frameCount": 3082,
+    "palettes": {
+      "light": [
+        "#b9b7b2",
+        "#bbb7ca",
+        "#d4d8d9",
+        "#d4b88f",
+        "#dec649"
+      ],
+      "medium": [
+        "#625852",
+        "#94898a",
+        "#6f5a75",
+        "#814f43",
+        "#927145"
+      ],
+      "dark": [
+        "#211918",
+        "#3c3630",
+        "#482c22",
+        "#501217",
+        "#3b2e43"
+      ],
+      "overall": [
+        "#2b221f",
+        "#5d5054",
+        "#9f959a",
+        "#582521",
+        "#85654a"
       ]
     }
   }

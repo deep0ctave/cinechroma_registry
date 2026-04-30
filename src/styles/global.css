@@ -165,6 +165,95 @@ body {
   background-color: var(--color-bg-card);
 }
 
+/* ── Color search — swatch picker, chips, and sort state ─────────────────── */
+
+/* Each preset swatch is a small clickable circle filled with that colour */
+.color-swatch {
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  cursor: pointer;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.color-swatch:hover {
+  transform: scale(1.18);
+  box-shadow: 0 0 0 2px var(--color-border);
+}
+
+.color-swatch:focus-visible {
+  outline: 2px solid var(--color-text);
+  outline-offset: 2px;
+}
+
+/* Selected state — double ring using the page bg as a gap */
+.color-swatch[data-selected="true"] {
+  transform: scale(1.1);
+  box-shadow: 0 0 0 2px var(--color-bg), 0 0 0 4px var(--color-text);
+}
+
+/* The "+" custom picker swatch uses card bg so it stands out from the colours */
+.color-picker-swatch {
+  background-color: var(--color-bg-card);
+  border-color: var(--color-border);
+  color: var(--color-text-tertiary);
+}
+
+.color-picker-swatch:hover {
+  color: var(--color-text);
+}
+
+.color-picker-swatch:focus-within {
+  box-shadow: 0 0 0 2px var(--color-bg), 0 0 0 4px var(--color-text);
+  transform: scale(1.1);
+}
+
+/* Active colour chips — removable pill showing the hex code */
+.color-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.25rem 0.5rem 0.25rem 0.4rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background-color: var(--color-bg-card);
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+}
+
+.color-chip-dot {
+  display: inline-block;
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  flex-shrink: 0;
+}
+
+.color-chip-hex {
+  letter-spacing: 0.04em;
+}
+
+.color-chip-remove {
+  border: 0;
+  background: transparent;
+  color: var(--color-text-tertiary);
+  cursor: pointer;
+  line-height: 1;
+  padding: 0;
+  font-size: 1rem;
+  transition: color 0.15s ease;
+}
+
+.color-chip-remove:hover {
+  color: var(--color-text);
+}
+
 /* ── Color strip image — crisp pixel rendering for the barcode look ──── */
 .strip-image {
   image-rendering: auto;

@@ -168,17 +168,32 @@ body {
 /* ── Color search — swatch picker, chips, and sort state ─────────────────── */
 
 /* Each preset swatch is a small clickable circle filled with that colour */
+/* Swatch row — fills available width, each swatch scales with the row */
+.swatch-row {
+  display: grid;
+  /* Auto-fill columns: each at least 2.5rem wide, no upper limit.
+     On a 320px phone this gives ~9 columns at ~2.5rem each.
+     On desktop it spreads wider so swatches are naturally bigger. */
+  grid-template-columns: repeat(auto-fill, minmax(2.5rem, 1fr));
+  gap: 0.5rem;
+  align-items: center;
+}
+
 .color-swatch {
-  width: 1.75rem;
-  height: 1.75rem;
+  /* Fill the grid cell — width is dictated by the grid, not a fixed rem */
+  width: 100%;
+  /* Keep it square: padding-bottom trick works in grid cells */
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
   border: 2px solid transparent;
   cursor: pointer;
-  flex-shrink: 0;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
+  /* Minimum tap target 44px on mobile */
+  min-width: 2.5rem;
+  min-height: 2.5rem;
 }
 
 .color-swatch:hover {

@@ -5,7 +5,7 @@
     "year": 2009,
     "slug": "fantastic-mr-fox-2009",
     "frameCount": 2498,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0001.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0001.png",
     "colors": [
       {
         "hex": "#4f2e14",
@@ -75,9 +75,9 @@
     "similar_ids": [
       12,
       24,
+      93,
       36,
-      35,
-      29
+      35
     ]
   },
   {
@@ -86,7 +86,7 @@
     "year": 2015,
     "slug": "green-room-2015",
     "frameCount": 2737,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0002.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0002.png",
     "colors": [
       {
         "hex": "#2f2306",
@@ -154,11 +154,11 @@
       }
     ],
     "similar_ids": [
+      102,
       32,
       16,
-      25,
-      7,
-      4
+      49,
+      107
     ]
   },
   {
@@ -167,7 +167,7 @@
     "year": 2017,
     "slug": "atomic-blonde-2017",
     "frameCount": 3304,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0003.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0003.png",
     "colors": [
       {
         "hex": "#28535f",
@@ -237,9 +237,9 @@
     "similar_ids": [
       37,
       41,
+      43,
       9,
-      42,
-      26
+      42
     ]
   },
   {
@@ -248,7 +248,7 @@
     "year": 2017,
     "slug": "blade-runner-2049-2017",
     "frameCount": 4708,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0004.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0004.png",
     "colors": [
       {
         "hex": "#301803",
@@ -316,11 +316,11 @@
       }
     ],
     "similar_ids": [
+      93,
       1,
       26,
-      24,
-      36,
-      32
+      83,
+      121
     ]
   },
   {
@@ -329,7 +329,7 @@
     "year": 2019,
     "slug": "color-out-of-space-2019",
     "frameCount": 3169,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0005.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0005.png",
     "colors": [
       {
         "hex": "#150922",
@@ -398,10 +398,10 @@
     ],
     "similar_ids": [
       9,
-      20,
-      41,
-      10,
-      28
+      48,
+      96,
+      44,
+      20
     ]
   },
   {
@@ -410,7 +410,7 @@
     "year": 2013,
     "slug": "her-2013",
     "frameCount": 3153,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0006.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0006.png",
     "colors": [
       {
         "hex": "#74583a",
@@ -478,11 +478,11 @@
       }
     ],
     "similar_ids": [
+      82,
+      111,
+      68,
       25,
-      33,
-      23,
-      17,
-      35
+      33
     ]
   },
   {
@@ -491,7 +491,7 @@
     "year": 2011,
     "slug": "green-lantern-2011",
     "frameCount": 3561,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0007.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0007.png",
     "colors": [
       {
         "hex": "#462713",
@@ -559,11 +559,11 @@
       }
     ],
     "similar_ids": [
+      102,
       35,
-      25,
-      36,
-      26,
-      29
+      108,
+      89,
+      107
     ]
   },
   {
@@ -572,7 +572,7 @@
     "year": 2020,
     "slug": "soul-2020",
     "frameCount": 2895,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0008.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0008.png",
     "colors": [
       {
         "hex": "#4e2b1c",
@@ -641,10 +641,10 @@
     ],
     "similar_ids": [
       27,
-      29,
-      28,
-      36,
-      26
+      121,
+      97,
+      115,
+      29
     ]
   },
   {
@@ -653,7 +653,7 @@
     "year": 2014,
     "slug": "the-amazing-spider-man-2-2014",
     "frameCount": 4078,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0009.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0009.png",
     "colors": [
       {
         "hex": "#091e38",
@@ -722,10 +722,10 @@
     ],
     "similar_ids": [
       20,
+      44,
+      96,
       42,
-      37,
-      41,
-      34
+      37
     ]
   },
   {
@@ -734,7 +734,7 @@
     "year": 2017,
     "slug": "the-florida-project-2017",
     "frameCount": 3214,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0010.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0010.png",
     "colors": [
       {
         "hex": "#31140e",
@@ -802,11 +802,11 @@
       }
     ],
     "similar_ids": [
-      21,
-      22,
-      28,
-      19,
-      27
+      62,
+      122,
+      70,
+      52,
+      46
     ]
   },
   {
@@ -815,7 +815,7 @@
     "year": 1999,
     "slug": "the-matrix-1999",
     "frameCount": 3925,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0011.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0011.png",
     "colors": [
       {
         "hex": "#263e26",
@@ -883,11 +883,11 @@
       }
     ],
     "similar_ids": [
+      102,
+      61,
+      107,
       2,
-      7,
-      16,
-      5,
-      41
+      7
     ]
   },
   {
@@ -896,7 +896,7 @@
     "year": 2016,
     "slug": "10-cloverfield-lane-2016",
     "frameCount": 1586,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0012.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0012.png",
     "colors": [
       {
         "hex": "#4e361e",
@@ -965,10 +965,10 @@
     ],
     "similar_ids": [
       29,
+      68,
       1,
       36,
-      24,
-      35
+      74
     ]
   },
   {
@@ -977,7 +977,7 @@
     "year": 2019,
     "slug": "1917-2019",
     "frameCount": 3426,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0013.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0013.png",
     "colors": [
       {
         "hex": "#87875f",
@@ -1047,9 +1047,9 @@
     "similar_ids": [
       31,
       35,
-      23,
-      25,
-      33
+      116,
+      73,
+      23
     ]
   },
   {
@@ -1058,7 +1058,7 @@
     "year": 1968,
     "slug": "2001-a-space-odyssey-1968",
     "frameCount": 3937,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0014.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0014.png",
     "colors": [
       {
         "hex": "#1a0102",
@@ -1126,11 +1126,11 @@
       }
     ],
     "similar_ids": [
+      95,
+      70,
       22,
-      21,
-      9,
-      28,
-      3
+      52,
+      87
     ]
   },
   {
@@ -1139,7 +1139,7 @@
     "year": 2009,
     "slug": "2012-2009",
     "frameCount": 4545,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0015.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0015.png",
     "colors": [
       {
         "hex": "#4f331c",
@@ -1207,11 +1207,11 @@
       }
     ],
     "similar_ids": [
-      34,
-      6,
-      12,
-      23,
-      24
+      119,
+      108,
+      68,
+      78,
+      34
     ]
   },
   {
@@ -1220,7 +1220,7 @@
     "year": 2004,
     "slug": "2046-2004",
     "frameCount": 3685,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0016.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0016.png",
     "colors": [
       {
         "hex": "#292b0f",
@@ -1288,11 +1288,11 @@
       }
     ],
     "similar_ids": [
-      2,
-      32,
-      35,
-      36,
-      25
+      49,
+      122,
+      95,
+      107,
+      46
     ]
   },
   {
@@ -1301,7 +1301,7 @@
     "year": 2006,
     "slug": "300-2006",
     "frameCount": 3359,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0017.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0017.png",
     "colors": [
       {
         "hex": "#805f3d",
@@ -1369,11 +1369,11 @@
       }
     ],
     "similar_ids": [
+      111,
+      82,
       6,
-      23,
-      15,
-      25,
-      33
+      112,
+      119
     ]
   },
   {
@@ -1382,7 +1382,7 @@
     "year": 1995,
     "slug": "a-little-princess-1995",
     "frameCount": 2804,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0019.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0019.png",
     "colors": [
       {
         "hex": "#381a11",
@@ -1450,11 +1450,11 @@
       }
     ],
     "similar_ids": [
-      30,
-      27,
-      28,
-      29,
-      22
+      66,
+      120,
+      53,
+      115,
+      30
     ]
   },
   {
@@ -1463,7 +1463,7 @@
     "year": 1984,
     "slug": "a-nightmare-on-elm-street-1984",
     "frameCount": 2628,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0020.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0020.png",
     "colors": [
       {
         "hex": "#121f3b",
@@ -1531,11 +1531,11 @@
       }
     ],
     "similar_ids": [
+      44,
       9,
       41,
       42,
-      37,
-      5
+      96
     ]
   },
   {
@@ -1544,7 +1544,7 @@
     "year": 1954,
     "slug": "a-star-is-born-1954",
     "frameCount": 5067,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0021.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0021.png",
     "colors": [
       {
         "hex": "#320b0c",
@@ -1613,10 +1613,10 @@
     ],
     "similar_ids": [
       22,
-      28,
-      10,
-      14,
-      30
+      63,
+      70,
+      75,
+      62
     ]
   },
   {
@@ -1625,7 +1625,7 @@
     "year": 1961,
     "slug": "a-woman-is-a-woman-1961",
     "frameCount": 2410,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0022.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0022.png",
     "colors": [
       {
         "hex": "#341211",
@@ -1694,10 +1694,10 @@
     ],
     "similar_ids": [
       21,
-      14,
-      30,
-      19,
-      10
+      76,
+      88,
+      63,
+      120
     ]
   },
   {
@@ -1706,7 +1706,7 @@
     "year": 2013,
     "slug": "about-time-2013",
     "frameCount": 3553,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0023.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0023.png",
     "colors": [
       {
         "hex": "#745937",
@@ -1777,8 +1777,8 @@
       33,
       25,
       35,
-      6,
-      15
+      78,
+      6
     ]
   },
   {
@@ -1787,7 +1787,7 @@
     "year": 2012,
     "slug": "abraham-lincoln-vampire-hunter-2012",
     "frameCount": 3024,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0024.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0024.png",
     "colors": [
       {
         "hex": "#462710",
@@ -1855,11 +1855,11 @@
       }
     ],
     "similar_ids": [
+      68,
       1,
       12,
       29,
-      36,
-      33
+      36
     ]
   },
   {
@@ -1868,7 +1868,7 @@
     "year": 2007,
     "slug": "across-the-universe-2007",
     "frameCount": 3839,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0025.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0025.png",
     "colors": [
       {
         "hex": "#403115",
@@ -1940,7 +1940,7 @@
       35,
       23,
       6,
-      36
+      108
     ]
   },
   {
@@ -1949,7 +1949,7 @@
     "year": 2019,
     "slug": "ad-astra-2019",
     "frameCount": 3544,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0026.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0026.png",
     "colors": [
       {
         "hex": "#2d0f04",
@@ -2017,11 +2017,11 @@
       }
     ],
     "similar_ids": [
+      121,
       24,
+      93,
       35,
-      1,
-      4,
-      27
+      1
     ]
   },
   {
@@ -2030,7 +2030,7 @@
     "year": 1955,
     "slug": "all-that-heaven-allows-1955",
     "frameCount": 2560,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0027.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0027.png",
     "colors": [
       {
         "hex": "#462614",
@@ -2099,10 +2099,10 @@
     ],
     "similar_ids": [
       29,
-      36,
-      12,
-      28,
-      24
+      68,
+      97,
+      113,
+      71
     ]
   },
   {
@@ -2111,7 +2111,7 @@
     "year": 1973,
     "slug": "amarcord-1973",
     "frameCount": 3568,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0028.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0028.png",
     "colors": [
       {
         "hex": "#452619",
@@ -2179,11 +2179,11 @@
       }
     ],
     "similar_ids": [
+      86,
+      113,
+      118,
       27,
-      29,
-      36,
-      19,
-      9
+      85
     ]
   },
   {
@@ -2192,7 +2192,7 @@
     "year": 1998,
     "slug": "american-history-x-1998",
     "frameCount": 3424,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0029.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0029.png",
     "colors": [
       {
         "hex": "#4e311c",
@@ -2262,9 +2262,9 @@
     "similar_ids": [
       36,
       27,
-      12,
-      35,
-      24
+      71,
+      74,
+      12
     ]
   },
   {
@@ -2273,7 +2273,7 @@
     "year": 2000,
     "slug": "american-psycho-2000",
     "frameCount": 2939,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0030.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0030.png",
     "colors": [
       {
         "hex": "#4b2d1e",
@@ -2341,11 +2341,11 @@
       }
     ],
     "similar_ids": [
-      19,
-      28,
-      27,
-      29,
-      22
+      66,
+      53,
+      86,
+      47,
+      120
     ]
   },
   {
@@ -2354,7 +2354,7 @@
     "year": 2014,
     "slug": "american-sniper-2014",
     "frameCount": 3821,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0031.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0031.png",
     "colors": [
       {
         "hex": "#706b49",
@@ -2423,10 +2423,10 @@
     ],
     "similar_ids": [
       13,
+      73,
       35,
-      23,
-      25,
-      33
+      49,
+      23
     ]
   },
   {
@@ -2435,7 +2435,7 @@
     "year": 2001,
     "slug": "amlie-2001",
     "frameCount": 3502,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0032.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0032.png",
     "colors": [
       {
         "hex": "#161801",
@@ -2503,11 +2503,11 @@
       }
     ],
     "similar_ids": [
+      93,
       2,
       16,
       4,
-      25,
-      35
+      25
     ]
   },
   {
@@ -2516,7 +2516,7 @@
     "year": 1962,
     "slug": "an-autumn-afternoon-1962",
     "frameCount": 3271,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0033.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0033.png",
     "colors": [
       {
         "hex": "#4f3b20",
@@ -2587,8 +2587,8 @@
       25,
       23,
       35,
-      6,
-      12
+      68,
+      6
     ]
   },
   {
@@ -2597,7 +2597,7 @@
     "year": 2024,
     "slug": "anora-2024",
     "frameCount": 3997,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0034.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0034.png",
     "colors": [
       {
         "hex": "#491f14",
@@ -2666,10 +2666,10 @@
     ],
     "similar_ids": [
       15,
-      27,
-      9,
-      26,
-      28
+      115,
+      119,
+      58,
+      27
     ]
   },
   {
@@ -2678,7 +2678,7 @@
     "year": 1979,
     "slug": "apocalypse-now-1979",
     "frameCount": 5650,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0035.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0035.png",
     "colors": [
       {
         "hex": "#614726",
@@ -2749,8 +2749,8 @@
       25,
       33,
       36,
-      23,
-      29
+      68,
+      116
     ]
   },
   {
@@ -2759,7 +2759,7 @@
     "year": 2014,
     "slug": "as-above-so-below-2014",
     "frameCount": 2683,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0036.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0036.png",
     "colors": [
       {
         "hex": "#301807",
@@ -2827,11 +2827,11 @@
       }
     ],
     "similar_ids": [
+      71,
       29,
+      74,
       35,
-      12,
-      27,
-      24
+      68
     ]
   },
   {
@@ -2840,7 +2840,7 @@
     "year": 1988,
     "slug": "as-tears-go-by-1988",
     "frameCount": 2850,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0037.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0037.png",
     "colors": [
       {
         "hex": "#0d2047",
@@ -2909,10 +2909,10 @@
     ],
     "similar_ids": [
       42,
+      43,
       41,
       9,
-      20,
-      3
+      20
     ]
   },
   {
@@ -2921,79 +2921,79 @@
     "year": 2018,
     "slug": "at-eternitys-gate-2018",
     "frameCount": 1337,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0039.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0039.png",
     "colors": [
       {
-        "hex": "#463819",
-        "weight": 0.1084
+        "hex": "#3d2e15",
+        "weight": 0.1054
       },
       {
-        "hex": "#5c4f20",
-        "weight": 0.1026
+        "hex": "#50431b",
+        "weight": 0.0909
       },
       {
-        "hex": "#726728",
-        "weight": 0.0915
+        "hex": "#645723",
+        "weight": 0.0874
       },
       {
-        "hex": "#8a8031",
-        "weight": 0.0754
+        "hex": "#aea444",
+        "weight": 0.0862
       },
       {
-        "hex": "#a2993b",
-        "weight": 0.0718
+        "hex": "#766d2a",
+        "weight": 0.0847
       },
       {
-        "hex": "#112e4b",
-        "weight": 0.0702
+        "hex": "#908633",
+        "weight": 0.0819
       },
       {
-        "hex": "#254f6d",
-        "weight": 0.0696
+        "hex": "#295576",
+        "weight": 0.0642
       },
       {
-        "hex": "#2d2611",
-        "weight": 0.0696
+        "hex": "#45778c",
+        "weight": 0.0613
       },
       {
-        "hex": "#3c6d83",
-        "weight": 0.0622
+        "hex": "#163056",
+        "weight": 0.0582
       },
       {
-        "hex": "#bcb153",
-        "weight": 0.0509
+        "hex": "#12302a",
+        "weight": 0.0566
       },
       {
-        "hex": "#164141",
-        "weight": 0.0498
+        "hex": "#204c50",
+        "weight": 0.0464
       },
       {
-        "hex": "#5a8ea1",
-        "weight": 0.0448
+        "hex": "#dfd072",
+        "weight": 0.0457
       },
       {
-        "hex": "#071232",
-        "weight": 0.039
+        "hex": "#091332",
+        "weight": 0.0436
       },
       {
-        "hex": "#e5d578",
-        "weight": 0.0366
+        "hex": "#689bad",
+        "weight": 0.041
       },
       {
-        "hex": "#b0d6e8",
-        "weight": 0.0288
+        "hex": "#b4d9eb",
+        "weight": 0.0238
       },
       {
-        "hex": "#7fb1c3",
-        "weight": 0.0287
+        "hex": "#90bdcd",
+        "weight": 0.0226
       }
     ],
     "similar_ids": [
       32,
-      13,
-      2,
-      25,
-      3
+      54,
+      101,
+      107,
+      2
     ]
   },
   {
@@ -3002,7 +3002,7 @@
     "year": 2009,
     "slug": "avatar-2009",
     "frameCount": 5131,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0041.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0041.png",
     "colors": [
       {
         "hex": "#102043",
@@ -3071,10 +3071,10 @@
     ],
     "similar_ids": [
       42,
+      43,
       37,
       20,
-      9,
-      3
+      9
     ]
   },
   {
@@ -3083,7 +3083,7 @@
     "year": 2025,
     "slug": "avatar-fire-and-ash-2025",
     "frameCount": 5678,
-    "barcode_path": "c:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0042.png",
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0042.png",
     "colors": [
       {
         "hex": "#052245",
@@ -3151,11 +3151,5600 @@
       }
     ],
     "similar_ids": [
+      43,
       41,
       37,
       20,
+      9
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Avatar The Way Of Water",
+    "year": 2022,
+    "slug": "avatar-the-way-of-water-2022",
+    "frameCount": 5548,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0043.png",
+    "colors": [
+      {
+        "hex": "#0a3047",
+        "weight": 0.1383
+      },
+      {
+        "hex": "#1b4c60",
+        "weight": 0.1278
+      },
+      {
+        "hex": "#32687a",
+        "weight": 0.1002
+      },
+      {
+        "hex": "#021930",
+        "weight": 0.0938
+      },
+      {
+        "hex": "#317fa7",
+        "weight": 0.074
+      },
+      {
+        "hex": "#5a919c",
+        "weight": 0.0603
+      },
+      {
+        "hex": "#083a73",
+        "weight": 0.0564
+      },
+      {
+        "hex": "#10599d",
+        "weight": 0.0527
+      },
+      {
+        "hex": "#7daebd",
+        "weight": 0.052
+      },
+      {
+        "hex": "#2d2511",
+        "weight": 0.0424
+      },
+      {
+        "hex": "#4c4124",
+        "weight": 0.0408
+      },
+      {
+        "hex": "#2fa6cb",
+        "weight": 0.038
+      },
+      {
+        "hex": "#91d0de",
+        "weight": 0.0347
+      },
+      {
+        "hex": "#795937",
+        "weight": 0.0346
+      },
+      {
+        "hex": "#a2824f",
+        "weight": 0.0315
+      },
+      {
+        "hex": "#dbba7d",
+        "weight": 0.0224
+      }
+    ],
+    "similar_ids": [
+      42,
+      41,
+      37,
       9,
-      3
+      106
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Avengers Endgame",
+    "year": 2019,
+    "slug": "avengers-endgame-2019",
+    "frameCount": 5218,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0044.png",
+    "colors": [
+      {
+        "hex": "#1c2b45",
+        "weight": 0.1401
+      },
+      {
+        "hex": "#101930",
+        "weight": 0.1238
+      },
+      {
+        "hex": "#294460",
+        "weight": 0.1027
+      },
+      {
+        "hex": "#47221e",
+        "weight": 0.0695
+      },
+      {
+        "hex": "#416585",
+        "weight": 0.068
+      },
+      {
+        "hex": "#614d35",
+        "weight": 0.0632
+      },
+      {
+        "hex": "#8f805f",
+        "weight": 0.0581
+      },
+      {
+        "hex": "#746446",
+        "weight": 0.0563
+      },
+      {
+        "hex": "#2b0c0b",
+        "weight": 0.0547
+      },
+      {
+        "hex": "#b2987a",
+        "weight": 0.0534
+      },
+      {
+        "hex": "#4c3a24",
+        "weight": 0.0502
+      },
+      {
+        "hex": "#6991af",
+        "weight": 0.0387
+      },
+      {
+        "hex": "#d6c29e",
+        "weight": 0.0383
+      },
+      {
+        "hex": "#623947",
+        "weight": 0.034
+      },
+      {
+        "hex": "#975a5f",
+        "weight": 0.0289
+      },
+      {
+        "hex": "#94cbdf",
+        "weight": 0.0202
+      }
+    ],
+    "similar_ids": [
+      20,
+      9,
+      41,
+      42,
+      96
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Babettes Feast",
+    "year": 1987,
+    "slug": "babettes-feast-1987",
+    "frameCount": 2984,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0045.png",
+    "colors": [
+      {
+        "hex": "#3f2715",
+        "weight": 0.1145
+      },
+      {
+        "hex": "#4c3b25",
+        "weight": 0.0988
+      },
+      {
+        "hex": "#674b3b",
+        "weight": 0.0841
+      },
+      {
+        "hex": "#2b1207",
+        "weight": 0.0774
+      },
+      {
+        "hex": "#607f96",
+        "weight": 0.0763
+      },
+      {
+        "hex": "#92aacb",
+        "weight": 0.0749
+      },
+      {
+        "hex": "#49677f",
+        "weight": 0.0748
+      },
+      {
+        "hex": "#a6c0e5",
+        "weight": 0.0683
+      },
+      {
+        "hex": "#8095ac",
+        "weight": 0.0562
+      },
+      {
+        "hex": "#324d66",
+        "weight": 0.0529
+      },
+      {
+        "hex": "#1e3a4b",
+        "weight": 0.0449
+      },
+      {
+        "hex": "#12273b",
+        "weight": 0.0447
+      },
+      {
+        "hex": "#816953",
+        "weight": 0.0404
+      },
+      {
+        "hex": "#bad7f7",
+        "weight": 0.0372
+      },
+      {
+        "hex": "#071628",
+        "weight": 0.0284
+      },
+      {
+        "hex": "#425e49",
+        "weight": 0.026
+      }
+    ],
+    "similar_ids": [
+      80,
+      57,
+      85,
+      96,
+      28
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "slug": "barry-lyndon-1975",
+    "frameCount": 5330,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0046.png",
+    "colors": [
+      {
+        "hex": "#391f12",
+        "weight": 0.1463
+      },
+      {
+        "hex": "#54291a",
+        "weight": 0.1269
+      },
+      {
+        "hex": "#2b1008",
+        "weight": 0.1122
+      },
+      {
+        "hex": "#624331",
+        "weight": 0.0829
+      },
+      {
+        "hex": "#3b3d1e",
+        "weight": 0.0794
+      },
+      {
+        "hex": "#50542e",
+        "weight": 0.0703
+      },
+      {
+        "hex": "#885a48",
+        "weight": 0.0638
+      },
+      {
+        "hex": "#67693d",
+        "weight": 0.0569
+      },
+      {
+        "hex": "#8d7d56",
+        "weight": 0.0499
+      },
+      {
+        "hex": "#1b0302",
+        "weight": 0.0482
+      },
+      {
+        "hex": "#7e3323",
+        "weight": 0.0406
+      },
+      {
+        "hex": "#627495",
+        "weight": 0.0327
+      },
+      {
+        "hex": "#384667",
+        "weight": 0.0258
+      },
+      {
+        "hex": "#ba9170",
+        "weight": 0.0239
+      },
+      {
+        "hex": "#879dbe",
+        "weight": 0.0208
+      },
+      {
+        "hex": "#c7c7c7",
+        "weight": 0.0194
+      }
+    ],
+    "similar_ids": [
+      122,
+      49,
+      27,
+      97,
+      66
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Batman",
+    "year": 1989,
+    "slug": "batman-1989",
+    "frameCount": 3638,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0047.png",
+    "colors": [
+      {
+        "hex": "#3a2415",
+        "weight": 0.1257
+      },
+      {
+        "hex": "#503325",
+        "weight": 0.1174
+      },
+      {
+        "hex": "#67473a",
+        "weight": 0.1067
+      },
+      {
+        "hex": "#2d1009",
+        "weight": 0.0835
+      },
+      {
+        "hex": "#160820",
+        "weight": 0.0741
+      },
+      {
+        "hex": "#281636",
+        "weight": 0.0647
+      },
+      {
+        "hex": "#292f46",
+        "weight": 0.0634
+      },
+      {
+        "hex": "#3b4262",
+        "weight": 0.0564
+      },
+      {
+        "hex": "#80624d",
+        "weight": 0.0537
+      },
+      {
+        "hex": "#0e1c2f",
+        "weight": 0.0512
+      },
+      {
+        "hex": "#3d5b65",
+        "weight": 0.0433
+      },
+      {
+        "hex": "#5f7097",
+        "weight": 0.0415
+      },
+      {
+        "hex": "#0e0207",
+        "weight": 0.0384
+      },
+      {
+        "hex": "#9b8e63",
+        "weight": 0.0282
+      },
+      {
+        "hex": "#b3d2b6",
+        "weight": 0.0267
+      },
+      {
+        "hex": "#80a6ac",
+        "weight": 0.025
+      }
+    ],
+    "similar_ids": [
+      53,
+      30,
+      86,
+      58,
+      85
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Batman and Robin",
+    "year": 1997,
+    "slug": "batman-and-robin-1997",
+    "frameCount": 3597,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0048.png",
+    "colors": [
+      {
+        "hex": "#14183e",
+        "weight": 0.1394
+      },
+      {
+        "hex": "#27070c",
+        "weight": 0.109
+      },
+      {
+        "hex": "#222d52",
+        "weight": 0.1051
+      },
+      {
+        "hex": "#461f18",
+        "weight": 0.0978
+      },
+      {
+        "hex": "#050620",
+        "weight": 0.089
+      },
+      {
+        "hex": "#3a4872",
+        "weight": 0.0698
+      },
+      {
+        "hex": "#574a2b",
+        "weight": 0.0579
+      },
+      {
+        "hex": "#262d83",
+        "weight": 0.0574
+      },
+      {
+        "hex": "#4e659d",
+        "weight": 0.0497
+      },
+      {
+        "hex": "#3a47c5",
+        "weight": 0.0465
+      },
+      {
+        "hex": "#571e42",
+        "weight": 0.0444
+      },
+      {
+        "hex": "#203214",
+        "weight": 0.04
+      },
+      {
+        "hex": "#6887d8",
+        "weight": 0.0337
+      },
+      {
+        "hex": "#8f404f",
+        "weight": 0.0289
+      },
+      {
+        "hex": "#6f8948",
+        "weight": 0.0162
+      },
+      {
+        "hex": "#a0c7d7",
+        "weight": 0.015
+      }
+    ],
+    "similar_ids": [
+      92,
+      9,
+      20,
+      44,
+      87
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Belle De Jour",
+    "year": 1967,
+    "slug": "belle-de-jour-1967",
+    "frameCount": 2893,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0049.png",
+    "colors": [
+      {
+        "hex": "#483c20",
+        "weight": 0.1192
+      },
+      {
+        "hex": "#574e32",
+        "weight": 0.1018
+      },
+      {
+        "hex": "#422917",
+        "weight": 0.1012
+      },
+      {
+        "hex": "#371d0d",
+        "weight": 0.0859
+      },
+      {
+        "hex": "#695b44",
+        "weight": 0.0811
+      },
+      {
+        "hex": "#220502",
+        "weight": 0.0718
+      },
+      {
+        "hex": "#5c3b38",
+        "weight": 0.0691
+      },
+      {
+        "hex": "#300d07",
+        "weight": 0.0665
+      },
+      {
+        "hex": "#2a3413",
+        "weight": 0.0659
+      },
+      {
+        "hex": "#1a1e04",
+        "weight": 0.06
+      },
+      {
+        "hex": "#736e4f",
+        "weight": 0.0534
+      },
+      {
+        "hex": "#7f8160",
+        "weight": 0.0357
+      },
+      {
+        "hex": "#9cc2bf",
+        "weight": 0.0333
+      },
+      {
+        "hex": "#7fa7b6",
+        "weight": 0.0212
+      },
+      {
+        "hex": "#929b78",
+        "weight": 0.017
+      },
+      {
+        "hex": "#706983",
+        "weight": 0.017
+      }
+    ],
+    "similar_ids": [
+      71,
+      36,
+      16,
+      74,
+      46
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Ben-Hur",
+    "year": 1959,
+    "slug": "ben-hur-1959",
+    "frameCount": 6407,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0050.png",
+    "colors": [
+      {
+        "hex": "#4e2a1e",
+        "weight": 0.1106
+      },
+      {
+        "hex": "#7b503f",
+        "weight": 0.1019
+      },
+      {
+        "hex": "#3e1b13",
+        "weight": 0.1013
+      },
+      {
+        "hex": "#603325",
+        "weight": 0.0981
+      },
+      {
+        "hex": "#674434",
+        "weight": 0.0973
+      },
+      {
+        "hex": "#8c624e",
+        "weight": 0.094
+      },
+      {
+        "hex": "#9e755d",
+        "weight": 0.0785
+      },
+      {
+        "hex": "#af896b",
+        "weight": 0.0769
+      },
+      {
+        "hex": "#c1a07f",
+        "weight": 0.0563
+      },
+      {
+        "hex": "#270b08",
+        "weight": 0.0532
+      },
+      {
+        "hex": "#5c7b9b",
+        "weight": 0.0272
+      },
+      {
+        "hex": "#465974",
+        "weight": 0.0233
+      },
+      {
+        "hex": "#2e3b57",
+        "weight": 0.023
+      },
+      {
+        "hex": "#cfc2a2",
+        "weight": 0.0219
+      },
+      {
+        "hex": "#7a9eb2",
+        "weight": 0.0206
+      },
+      {
+        "hex": "#181b34",
+        "weight": 0.0156
+      }
+    ],
+    "similar_ids": [
+      113,
+      90,
+      109,
+      94,
+      115
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Big Fish",
+    "year": 2003,
+    "slug": "big-fish-2003",
+    "frameCount": 3604,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0052.png",
+    "colors": [
+      {
+        "hex": "#452215",
+        "weight": 0.1265
+      },
+      {
+        "hex": "#553928",
+        "weight": 0.1173
+      },
+      {
+        "hex": "#714e3d",
+        "weight": 0.1109
+      },
+      {
+        "hex": "#310b08",
+        "weight": 0.0931
+      },
+      {
+        "hex": "#8a6052",
+        "weight": 0.085
+      },
+      {
+        "hex": "#121f2f",
+        "weight": 0.0688
+      },
+      {
+        "hex": "#190203",
+        "weight": 0.0616
+      },
+      {
+        "hex": "#2b3a58",
+        "weight": 0.0539
+      },
+      {
+        "hex": "#a17969",
+        "weight": 0.0534
+      },
+      {
+        "hex": "#742a24",
+        "weight": 0.0528
+      },
+      {
+        "hex": "#b59b78",
+        "weight": 0.0431
+      },
+      {
+        "hex": "#4b5c7d",
+        "weight": 0.041
+      },
+      {
+        "hex": "#787f3d",
+        "weight": 0.0311
+      },
+      {
+        "hex": "#7484a5",
+        "weight": 0.0251
+      },
+      {
+        "hex": "#d1c290",
+        "weight": 0.0236
+      },
+      {
+        "hex": "#a4b7d5",
+        "weight": 0.0127
+      }
+    ],
+    "similar_ids": [
+      70,
+      118,
+      21,
+      62,
+      94
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Big Trouble In Little China",
+    "year": 1986,
+    "slug": "big-trouble-in-little-china-1986",
+    "frameCount": 395,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0053.png",
+    "colors": [
+      {
+        "hex": "#3b1e14",
+        "weight": 0.1564
+      },
+      {
+        "hex": "#4a2c1f",
+        "weight": 0.154
+      },
+      {
+        "hex": "#2b0f0b",
+        "weight": 0.1336
+      },
+      {
+        "hex": "#5c3c2f",
+        "weight": 0.1257
+      },
+      {
+        "hex": "#72503f",
+        "weight": 0.0822
+      },
+      {
+        "hex": "#273655",
+        "weight": 0.0665
+      },
+      {
+        "hex": "#38476c",
+        "weight": 0.0454
+      },
+      {
+        "hex": "#140206",
+        "weight": 0.0436
+      },
+      {
+        "hex": "#16213c",
+        "weight": 0.0363
+      },
+      {
+        "hex": "#8f725a",
+        "weight": 0.0324
+      },
+      {
+        "hex": "#4e638b",
+        "weight": 0.0287
+      },
+      {
+        "hex": "#a1a0b3",
+        "weight": 0.0255
+      },
+      {
+        "hex": "#b0bcde",
+        "weight": 0.0218
+      },
+      {
+        "hex": "#7c82a2",
+        "weight": 0.0173
+      },
+      {
+        "hex": "#c3d6f2",
+        "weight": 0.0165
+      },
+      {
+        "hex": "#429e95",
+        "weight": 0.014
+      }
+    ],
+    "similar_ids": [
+      66,
+      30,
+      120,
+      47,
+      19
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Birdman",
+    "year": 2014,
+    "slug": "birdman-2014",
+    "frameCount": 3435,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0054.png",
+    "colors": [
+      {
+        "hex": "#412e14",
+        "weight": 0.1254
+      },
+      {
+        "hex": "#331e08",
+        "weight": 0.1235
+      },
+      {
+        "hex": "#533e20",
+        "weight": 0.1174
+      },
+      {
+        "hex": "#645230",
+        "weight": 0.1038
+      },
+      {
+        "hex": "#230c01",
+        "weight": 0.0789
+      },
+      {
+        "hex": "#7c6843",
+        "weight": 0.0779
+      },
+      {
+        "hex": "#031436",
+        "weight": 0.068
+      },
+      {
+        "hex": "#082653",
+        "weight": 0.061
+      },
+      {
+        "hex": "#01041b",
+        "weight": 0.0597
+      },
+      {
+        "hex": "#173e6b",
+        "weight": 0.0474
+      },
+      {
+        "hex": "#96835d",
+        "weight": 0.0428
+      },
+      {
+        "hex": "#2f5d87",
+        "weight": 0.0287
+      },
+      {
+        "hex": "#b5a480",
+        "weight": 0.0216
+      },
+      {
+        "hex": "#5686aa",
+        "weight": 0.0186
+      },
+      {
+        "hex": "#87bfde",
+        "weight": 0.0141
+      },
+      {
+        "hex": "#d4cdac",
+        "weight": 0.0114
+      }
+    ],
+    "similar_ids": [
+      35,
+      36,
+      71,
+      74,
+      24
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Birth",
+    "year": 2004,
+    "slug": "birth-2004",
+    "frameCount": 2889,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0055.png",
+    "colors": [
+      {
+        "hex": "#79624a",
+        "weight": 0.1328
+      },
+      {
+        "hex": "#69533c",
+        "weight": 0.1297
+      },
+      {
+        "hex": "#5e4531",
+        "weight": 0.1277
+      },
+      {
+        "hex": "#533928",
+        "weight": 0.1063
+      },
+      {
+        "hex": "#8a7259",
+        "weight": 0.1017
+      },
+      {
+        "hex": "#482c1f",
+        "weight": 0.0865
+      },
+      {
+        "hex": "#391f15",
+        "weight": 0.068
+      },
+      {
+        "hex": "#a1876d",
+        "weight": 0.057
+      },
+      {
+        "hex": "#424a29",
+        "weight": 0.043
+      },
+      {
+        "hex": "#2b140b",
+        "weight": 0.0364
+      },
+      {
+        "hex": "#32361a",
+        "weight": 0.0304
+      },
+      {
+        "hex": "#200706",
+        "weight": 0.0222
+      },
+      {
+        "hex": "#bea387",
+        "weight": 0.021
+      },
+      {
+        "hex": "#110002",
+        "weight": 0.0149
+      },
+      {
+        "hex": "#bcc4e1",
+        "weight": 0.0123
+      },
+      {
+        "hex": "#eac8ab",
+        "weight": 0.0101
+      }
+    ],
+    "similar_ids": [
+      90,
+      69,
+      89,
+      78,
+      113
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Black Coal Thin Ice",
+    "year": 2014,
+    "slug": "black-coal-thin-ice-2014",
+    "frameCount": 3151,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0056.png",
+    "colors": [
+      {
+        "hex": "#39391a",
+        "weight": 0.1055
+      },
+      {
+        "hex": "#27280e",
+        "weight": 0.0958
+      },
+      {
+        "hex": "#4f4827",
+        "weight": 0.0899
+      },
+      {
+        "hex": "#829db9",
+        "weight": 0.0891
+      },
+      {
+        "hex": "#311211",
+        "weight": 0.079
+      },
+      {
+        "hex": "#9bbfda",
+        "weight": 0.0744
+      },
+      {
+        "hex": "#5e5f37",
+        "weight": 0.0736
+      },
+      {
+        "hex": "#57201e",
+        "weight": 0.0687
+      },
+      {
+        "hex": "#827349",
+        "weight": 0.0606
+      },
+      {
+        "hex": "#68819a",
+        "weight": 0.0585
+      },
+      {
+        "hex": "#0a1703",
+        "weight": 0.0538
+      },
+      {
+        "hex": "#9c9661",
+        "weight": 0.0466
+      },
+      {
+        "hex": "#823933",
+        "weight": 0.0401
+      },
+      {
+        "hex": "#0d0414",
+        "weight": 0.024
+      },
+      {
+        "hex": "#445672",
+        "weight": 0.021
+      },
+      {
+        "hex": "#c9cc87",
+        "weight": 0.0194
+      }
+    ],
+    "similar_ids": [
+      16,
+      57,
+      107,
+      122,
+      45
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Black Narcissus",
+    "year": 1947,
+    "slug": "black-narcissus-1947",
+    "frameCount": 2913,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0057.png",
+    "colors": [
+      {
+        "hex": "#7f7555",
+        "weight": 0.0894
+      },
+      {
+        "hex": "#775240",
+        "weight": 0.0892
+      },
+      {
+        "hex": "#5e3829",
+        "weight": 0.0843
+      },
+      {
+        "hex": "#432717",
+        "weight": 0.0827
+      },
+      {
+        "hex": "#3c4524",
+        "weight": 0.081
+      },
+      {
+        "hex": "#556139",
+        "weight": 0.0764
+      },
+      {
+        "hex": "#415675",
+        "weight": 0.0672
+      },
+      {
+        "hex": "#586f92",
+        "weight": 0.0616
+      },
+      {
+        "hex": "#300d0b",
+        "weight": 0.0547
+      },
+      {
+        "hex": "#6286b4",
+        "weight": 0.0507
+      },
+      {
+        "hex": "#869fc1",
+        "weight": 0.0503
+      },
+      {
+        "hex": "#1c2813",
+        "weight": 0.0477
+      },
+      {
+        "hex": "#9e9373",
+        "weight": 0.0458
+      },
+      {
+        "hex": "#0e050d",
+        "weight": 0.042
+      },
+      {
+        "hex": "#293955",
+        "weight": 0.0391
+      },
+      {
+        "hex": "#b1c3ce",
+        "weight": 0.0379
+      }
+    ],
+    "similar_ids": [
+      67,
+      28,
+      96,
+      101,
+      46
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Black Sabbath",
+    "year": 1963,
+    "slug": "black-sabbath-1963",
+    "frameCount": 2653,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0058.png",
+    "colors": [
+      {
+        "hex": "#3b1e12",
+        "weight": 0.148
+      },
+      {
+        "hex": "#4a2b1b",
+        "weight": 0.1362
+      },
+      {
+        "hex": "#0d273e",
+        "weight": 0.0815
+      },
+      {
+        "hex": "#281205",
+        "weight": 0.0767
+      },
+      {
+        "hex": "#6d4830",
+        "weight": 0.0763
+      },
+      {
+        "hex": "#01132f",
+        "weight": 0.0729
+      },
+      {
+        "hex": "#564129",
+        "weight": 0.0717
+      },
+      {
+        "hex": "#623020",
+        "weight": 0.0611
+      },
+      {
+        "hex": "#193c50",
+        "weight": 0.0604
+      },
+      {
+        "hex": "#7c573a",
+        "weight": 0.0517
+      },
+      {
+        "hex": "#6b6b4f",
+        "weight": 0.0442
+      },
+      {
+        "hex": "#2b5767",
+        "weight": 0.0308
+      },
+      {
+        "hex": "#7e8668",
+        "weight": 0.0302
+      },
+      {
+        "hex": "#956e48",
+        "weight": 0.0287
+      },
+      {
+        "hex": "#ac9468",
+        "weight": 0.0208
+      },
+      {
+        "hex": "#deb97e",
+        "weight": 0.0086
+      }
+    ],
+    "similar_ids": [
+      27,
+      29,
+      47,
+      53,
+      83
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Blade.Runner",
+    "year": 1997,
+    "slug": "bladerunner-1997",
+    "frameCount": 3387,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0060.png",
+    "colors": [
+      {
+        "hex": "#1c4e57",
+        "weight": 0.1003
+      },
+      {
+        "hex": "#164049",
+        "weight": 0.0952
+      },
+      {
+        "hex": "#245c62",
+        "weight": 0.0918
+      },
+      {
+        "hex": "#10333e",
+        "weight": 0.0817
+      },
+      {
+        "hex": "#306b6e",
+        "weight": 0.0794
+      },
+      {
+        "hex": "#4c371d",
+        "weight": 0.0719
+      },
+      {
+        "hex": "#3f7a78",
+        "weight": 0.0688
+      },
+      {
+        "hex": "#382711",
+        "weight": 0.0671
+      },
+      {
+        "hex": "#614b2d",
+        "weight": 0.0603
+      },
+      {
+        "hex": "#4e8d86",
+        "weight": 0.0541
+      },
+      {
+        "hex": "#72623f",
+        "weight": 0.0513
+      },
+      {
+        "hex": "#62a49a",
+        "weight": 0.0421
+      },
+      {
+        "hex": "#a1b599",
+        "weight": 0.0393
+      },
+      {
+        "hex": "#877954",
+        "weight": 0.0342
+      },
+      {
+        "hex": "#0e233a",
+        "weight": 0.0338
+      },
+      {
+        "hex": "#99956e",
+        "weight": 0.0287
+      }
+    ],
+    "similar_ids": [
+      3,
+      34,
+      15,
+      83,
+      43
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Blair Witch",
+    "year": 2016,
+    "slug": "blair-witch-2016",
+    "frameCount": 2569,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0061.png",
+    "colors": [
+      {
+        "hex": "#33462a",
+        "weight": 0.1336
+      },
+      {
+        "hex": "#48593a",
+        "weight": 0.127
+      },
+      {
+        "hex": "#223219",
+        "weight": 0.1221
+      },
+      {
+        "hex": "#5a704d",
+        "weight": 0.0976
+      },
+      {
+        "hex": "#7a8a65",
+        "weight": 0.0731
+      },
+      {
+        "hex": "#26180a",
+        "weight": 0.0686
+      },
+      {
+        "hex": "#56301d",
+        "weight": 0.0578
+      },
+      {
+        "hex": "#9aa78b",
+        "weight": 0.0545
+      },
+      {
+        "hex": "#1f294d",
+        "weight": 0.0518
+      },
+      {
+        "hex": "#0c122e",
+        "weight": 0.0479
+      },
+      {
+        "hex": "#b7c8a8",
+        "weight": 0.0385
+      },
+      {
+        "hex": "#39486d",
+        "weight": 0.0383
+      },
+      {
+        "hex": "#617b98",
+        "weight": 0.0303
+      },
+      {
+        "hex": "#c8e5bd",
+        "weight": 0.0295
+      },
+      {
+        "hex": "#93573d",
+        "weight": 0.0249
+      },
+      {
+        "hex": "#565dd3",
+        "weight": 0.0047
+      }
+    ],
+    "similar_ids": [
+      11,
+      102,
+      107,
+      64,
+      5
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Blood And Black Lace",
+    "year": 1964,
+    "slug": "blood-and-black-lace-1964",
+    "frameCount": 2554,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0062.png",
+    "colors": [
+      {
+        "hex": "#62443d",
+        "weight": 0.1107
+      },
+      {
+        "hex": "#4a2f25",
+        "weight": 0.1079
+      },
+      {
+        "hex": "#805c5d",
+        "weight": 0.104
+      },
+      {
+        "hex": "#28050a",
+        "weight": 0.0798
+      },
+      {
+        "hex": "#322013",
+        "weight": 0.0769
+      },
+      {
+        "hex": "#110107",
+        "weight": 0.0642
+      },
+      {
+        "hex": "#373f5f",
+        "weight": 0.0625
+      },
+      {
+        "hex": "#460b18",
+        "weight": 0.0585
+      },
+      {
+        "hex": "#535274",
+        "weight": 0.0573
+      },
+      {
+        "hex": "#9e7c79",
+        "weight": 0.055
+      },
+      {
+        "hex": "#202a46",
+        "weight": 0.0523
+      },
+      {
+        "hex": "#817c9b",
+        "weight": 0.0444
+      },
+      {
+        "hex": "#606888",
+        "weight": 0.0395
+      },
+      {
+        "hex": "#0d162b",
+        "weight": 0.0322
+      },
+      {
+        "hex": "#821522",
+        "weight": 0.031
+      },
+      {
+        "hex": "#b1a7b2",
+        "weight": 0.0238
+      }
+    ],
+    "similar_ids": [
+      70,
+      21,
+      52,
+      118,
+      87
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Blow Out",
+    "year": 1981,
+    "slug": "blow-out-1981",
+    "frameCount": 3112,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0063.png",
+    "colors": [
+      {
+        "hex": "#341111",
+        "weight": 0.1367
+      },
+      {
+        "hex": "#482922",
+        "weight": 0.1213
+      },
+      {
+        "hex": "#603d33",
+        "weight": 0.1117
+      },
+      {
+        "hex": "#471115",
+        "weight": 0.1056
+      },
+      {
+        "hex": "#250909",
+        "weight": 0.089
+      },
+      {
+        "hex": "#795148",
+        "weight": 0.0711
+      },
+      {
+        "hex": "#631920",
+        "weight": 0.0644
+      },
+      {
+        "hex": "#93685e",
+        "weight": 0.0437
+      },
+      {
+        "hex": "#204754",
+        "weight": 0.0404
+      },
+      {
+        "hex": "#142d43",
+        "weight": 0.0391
+      },
+      {
+        "hex": "#872533",
+        "weight": 0.0385
+      },
+      {
+        "hex": "#366772",
+        "weight": 0.0379
+      },
+      {
+        "hex": "#09152f",
+        "weight": 0.0353
+      },
+      {
+        "hex": "#538f94",
+        "weight": 0.0248
+      },
+      {
+        "hex": "#ac8b78",
+        "weight": 0.0219
+      },
+      {
+        "hex": "#b8bcaa",
+        "weight": 0.0186
+      }
+    ],
+    "similar_ids": [
+      120,
+      21,
+      91,
+      22,
+      76
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Blow-Up",
+    "year": 1966,
+    "slug": "blow-up-1966",
+    "frameCount": 3217,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0064.png",
+    "colors": [
+      {
+        "hex": "#5a382c",
+        "weight": 0.1054
+      },
+      {
+        "hex": "#445532",
+        "weight": 0.1023
+      },
+      {
+        "hex": "#4b271d",
+        "weight": 0.0954
+      },
+      {
+        "hex": "#50653f",
+        "weight": 0.0897
+      },
+      {
+        "hex": "#374425",
+        "weight": 0.0889
+      },
+      {
+        "hex": "#6b493b",
+        "weight": 0.0857
+      },
+      {
+        "hex": "#381814",
+        "weight": 0.0765
+      },
+      {
+        "hex": "#262e12",
+        "weight": 0.0676
+      },
+      {
+        "hex": "#805f4c",
+        "weight": 0.0486
+      },
+      {
+        "hex": "#65754a",
+        "weight": 0.047
+      },
+      {
+        "hex": "#240b0f",
+        "weight": 0.0461
+      },
+      {
+        "hex": "#6e867e",
+        "weight": 0.0368
+      },
+      {
+        "hex": "#483a56",
+        "weight": 0.0365
+      },
+      {
+        "hex": "#575571",
+        "weight": 0.0259
+      },
+      {
+        "hex": "#97ab96",
+        "weight": 0.0249
+      },
+      {
+        "hex": "#282d42",
+        "weight": 0.0227
+      }
+    ],
+    "similar_ids": [
+      46,
+      49,
+      86,
+      122,
+      66
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Blue Is The Warmest Color",
+    "year": 2013,
+    "slug": "blue-is-the-warmest-color-2013",
+    "frameCount": 5188,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0065.png",
+    "colors": [
+      {
+        "hex": "#6c4535",
+        "weight": 0.1408
+      },
+      {
+        "hex": "#593625",
+        "weight": 0.1351
+      },
+      {
+        "hex": "#462817",
+        "weight": 0.1254
+      },
+      {
+        "hex": "#805445",
+        "weight": 0.1252
+      },
+      {
+        "hex": "#321b09",
+        "weight": 0.0916
+      },
+      {
+        "hex": "#8f685a",
+        "weight": 0.0826
+      },
+      {
+        "hex": "#a6806b",
+        "weight": 0.0687
+      },
+      {
+        "hex": "#be9c84",
+        "weight": 0.0493
+      },
+      {
+        "hex": "#0b2b43",
+        "weight": 0.0316
+      },
+      {
+        "hex": "#dcc2a0",
+        "weight": 0.027
+      },
+      {
+        "hex": "#a7664a",
+        "weight": 0.0267
+      },
+      {
+        "hex": "#1e4163",
+        "weight": 0.024
+      },
+      {
+        "hex": "#03162f",
+        "weight": 0.0202
+      },
+      {
+        "hex": "#3e617f",
+        "weight": 0.0181
+      },
+      {
+        "hex": "#60869d",
+        "weight": 0.017
+      },
+      {
+        "hex": "#383e18",
+        "weight": 0.0168
+      }
+    ],
+    "similar_ids": [
+      50,
+      97,
+      52,
+      113,
+      94
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Blue Velvet",
+    "year": 1986,
+    "slug": "blue-velvet-1986",
+    "frameCount": 3472,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0066.png",
+    "colors": [
+      {
+        "hex": "#4b2d1f",
+        "weight": 0.1295
+      },
+      {
+        "hex": "#3f2318",
+        "weight": 0.1262
+      },
+      {
+        "hex": "#5d392c",
+        "weight": 0.1089
+      },
+      {
+        "hex": "#361c12",
+        "weight": 0.1035
+      },
+      {
+        "hex": "#32110e",
+        "weight": 0.1024
+      },
+      {
+        "hex": "#260a08",
+        "weight": 0.1008
+      },
+      {
+        "hex": "#6e4e3c",
+        "weight": 0.0843
+      },
+      {
+        "hex": "#484724",
+        "weight": 0.0632
+      },
+      {
+        "hex": "#190203",
+        "weight": 0.0496
+      },
+      {
+        "hex": "#6c6843",
+        "weight": 0.0469
+      },
+      {
+        "hex": "#906556",
+        "weight": 0.0333
+      },
+      {
+        "hex": "#211b3b",
+        "weight": 0.0166
+      },
+      {
+        "hex": "#a18c6a",
+        "weight": 0.0155
+      },
+      {
+        "hex": "#363e75",
+        "weight": 0.0091
+      },
+      {
+        "hex": "#c6c0b2",
+        "weight": 0.0063
+      },
+      {
+        "hex": "#868eb2",
+        "weight": 0.0038
+      }
+    ],
+    "similar_ids": [
+      53,
+      30,
+      120,
+      19,
+      115
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Body Melt",
+    "year": 1993,
+    "slug": "body-melt-1993",
+    "frameCount": 2385,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0067.png",
+    "colors": [
+      {
+        "hex": "#78513c",
+        "weight": 0.1161
+      },
+      {
+        "hex": "#947055",
+        "weight": 0.0969
+      },
+      {
+        "hex": "#5b3221",
+        "weight": 0.0956
+      },
+      {
+        "hex": "#5d7548",
+        "weight": 0.0847
+      },
+      {
+        "hex": "#9c946a",
+        "weight": 0.0817
+      },
+      {
+        "hex": "#4c4d2f",
+        "weight": 0.0776
+      },
+      {
+        "hex": "#431e10",
+        "weight": 0.0709
+      },
+      {
+        "hex": "#315571",
+        "weight": 0.0554
+      },
+      {
+        "hex": "#56839b",
+        "weight": 0.0538
+      },
+      {
+        "hex": "#29361e",
+        "weight": 0.0504
+      },
+      {
+        "hex": "#291005",
+        "weight": 0.047
+      },
+      {
+        "hex": "#112646",
+        "weight": 0.0469
+      },
+      {
+        "hex": "#7cadc3",
+        "weight": 0.039
+      },
+      {
+        "hex": "#c6b58b",
+        "weight": 0.0292
+      },
+      {
+        "hex": "#0e0812",
+        "weight": 0.0276
+      },
+      {
+        "hex": "#add4dd",
+        "weight": 0.0274
+      }
+    ],
+    "similar_ids": [
+      101,
+      113,
+      119,
+      57,
+      78
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Bohemian Rhapsody",
+    "year": 2018,
+    "slug": "bohemian-rhapsody-2018",
+    "frameCount": 3877,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0068.png",
+    "colors": [
+      {
+        "hex": "#624329",
+        "weight": 0.1327
+      },
+      {
+        "hex": "#4f351f",
+        "weight": 0.131
+      },
+      {
+        "hex": "#3f2614",
+        "weight": 0.115
+      },
+      {
+        "hex": "#755235",
+        "weight": 0.1095
+      },
+      {
+        "hex": "#886546",
+        "weight": 0.0911
+      },
+      {
+        "hex": "#321609",
+        "weight": 0.0798
+      },
+      {
+        "hex": "#9e7c5e",
+        "weight": 0.0635
+      },
+      {
+        "hex": "#b0997c",
+        "weight": 0.0508
+      },
+      {
+        "hex": "#200502",
+        "weight": 0.0453
+      },
+      {
+        "hex": "#315064",
+        "weight": 0.0357
+      },
+      {
+        "hex": "#d8c19f",
+        "weight": 0.0314
+      },
+      {
+        "hex": "#1c334a",
+        "weight": 0.0296
+      },
+      {
+        "hex": "#4b7584",
+        "weight": 0.0289
+      },
+      {
+        "hex": "#5f1e17",
+        "weight": 0.0245
+      },
+      {
+        "hex": "#111944",
+        "weight": 0.0203
+      },
+      {
+        "hex": "#05031f",
+        "weight": 0.0107
+      }
+    ],
+    "similar_ids": [
+      78,
+      71,
+      29,
+      12,
+      36
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Bonnie And Clyde",
+    "year": 1967,
+    "slug": "bonnie-and-clyde-1967",
+    "frameCount": 3190,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0069.png",
+    "colors": [
+      {
+        "hex": "#8d6f54",
+        "weight": 0.1164
+      },
+      {
+        "hex": "#796546",
+        "weight": 0.0971
+      },
+      {
+        "hex": "#6a5439",
+        "weight": 0.0942
+      },
+      {
+        "hex": "#9a8162",
+        "weight": 0.0931
+      },
+      {
+        "hex": "#543024",
+        "weight": 0.0912
+      },
+      {
+        "hex": "#6a4335",
+        "weight": 0.0893
+      },
+      {
+        "hex": "#412419",
+        "weight": 0.0809
+      },
+      {
+        "hex": "#554029",
+        "weight": 0.0719
+      },
+      {
+        "hex": "#835547",
+        "weight": 0.0678
+      },
+      {
+        "hex": "#ab9675",
+        "weight": 0.0616
+      },
+      {
+        "hex": "#bdb18e",
+        "weight": 0.0364
+      },
+      {
+        "hex": "#2f130e",
+        "weight": 0.0345
+      },
+      {
+        "hex": "#578498",
+        "weight": 0.0211
+      },
+      {
+        "hex": "#7da8b3",
+        "weight": 0.0188
+      },
+      {
+        "hex": "#c0d2c0",
+        "weight": 0.0154
+      },
+      {
+        "hex": "#295460",
+        "weight": 0.0103
+      }
+    ],
+    "similar_ids": [
+      90,
+      119,
+      55,
+      78,
+      113
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Boogie Nights",
+    "year": 1997,
+    "slug": "boogie-nights-1997",
+    "frameCount": 4481,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0070.png",
+    "colors": [
+      {
+        "hex": "#67493e",
+        "weight": 0.1167
+      },
+      {
+        "hex": "#3b1711",
+        "weight": 0.1108
+      },
+      {
+        "hex": "#462f21",
+        "weight": 0.1108
+      },
+      {
+        "hex": "#260806",
+        "weight": 0.0829
+      },
+      {
+        "hex": "#405176",
+        "weight": 0.0811
+      },
+      {
+        "hex": "#766b50",
+        "weight": 0.0663
+      },
+      {
+        "hex": "#283559",
+        "weight": 0.0567
+      },
+      {
+        "hex": "#587297",
+        "weight": 0.0559
+      },
+      {
+        "hex": "#120103",
+        "weight": 0.0518
+      },
+      {
+        "hex": "#a37b70",
+        "weight": 0.0491
+      },
+      {
+        "hex": "#769db6",
+        "weight": 0.0457
+      },
+      {
+        "hex": "#121d36",
+        "weight": 0.0457
+      },
+      {
+        "hex": "#702025",
+        "weight": 0.0412
+      },
+      {
+        "hex": "#b6a787",
+        "weight": 0.034
+      },
+      {
+        "hex": "#aecdd1",
+        "weight": 0.0323
+      },
+      {
+        "hex": "#af3548",
+        "weight": 0.0189
+      }
+    ],
+    "similar_ids": [
+      118,
+      52,
+      62,
+      21,
+      87
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Brooklyn",
+    "year": 2015,
+    "slug": "brooklyn-2015",
+    "frameCount": 3225,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0071.png",
+    "colors": [
+      {
+        "hex": "#553e27",
+        "weight": 0.1181
+      },
+      {
+        "hex": "#45331d",
+        "weight": 0.1178
+      },
+      {
+        "hex": "#624a31",
+        "weight": 0.105
+      },
+      {
+        "hex": "#362611",
+        "weight": 0.0974
+      },
+      {
+        "hex": "#2d1809",
+        "weight": 0.0892
+      },
+      {
+        "hex": "#70573d",
+        "weight": 0.086
+      },
+      {
+        "hex": "#796949",
+        "weight": 0.0729
+      },
+      {
+        "hex": "#280904",
+        "weight": 0.0579
+      },
+      {
+        "hex": "#482016",
+        "weight": 0.0549
+      },
+      {
+        "hex": "#8d7a5b",
+        "weight": 0.0541
+      },
+      {
+        "hex": "#140203",
+        "weight": 0.045
+      },
+      {
+        "hex": "#ab9572",
+        "weight": 0.0305
+      },
+      {
+        "hex": "#d1c5a7",
+        "weight": 0.0205
+      },
+      {
+        "hex": "#3c5f70",
+        "weight": 0.0205
+      },
+      {
+        "hex": "#62859b",
+        "weight": 0.0167
+      },
+      {
+        "hex": "#92aac4",
+        "weight": 0.0134
+      }
+    ],
+    "similar_ids": [
+      36,
+      74,
+      29,
+      68,
+      35
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Bunraku",
+    "year": 2010,
+    "slug": "bunraku-2010",
+    "frameCount": 3584,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0072.png",
+    "colors": [
+      {
+        "hex": "#3e180f",
+        "weight": 0.1562
+      },
+      {
+        "hex": "#240b08",
+        "weight": 0.1121
+      },
+      {
+        "hex": "#68201d",
+        "weight": 0.1027
+      },
+      {
+        "hex": "#764829",
+        "weight": 0.0803
+      },
+      {
+        "hex": "#082335",
+        "weight": 0.0781
+      },
+      {
+        "hex": "#982226",
+        "weight": 0.0767
+      },
+      {
+        "hex": "#4e311a",
+        "weight": 0.0718
+      },
+      {
+        "hex": "#194158",
+        "weight": 0.0645
+      },
+      {
+        "hex": "#24647b",
+        "weight": 0.0507
+      },
+      {
+        "hex": "#a95428",
+        "weight": 0.0436
+      },
+      {
+        "hex": "#a1783f",
+        "weight": 0.0389
+      },
+      {
+        "hex": "#32889c",
+        "weight": 0.0351
+      },
+      {
+        "hex": "#c09651",
+        "weight": 0.028
+      },
+      {
+        "hex": "#4aaeb7",
+        "weight": 0.0231
+      },
+      {
+        "hex": "#965b6e",
+        "weight": 0.023
+      },
+      {
+        "hex": "#cfc08e",
+        "weight": 0.0151
+      }
+    ],
+    "similar_ids": [
+      115,
+      121,
+      52,
+      26,
+      97
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Call Me By Your Name",
+    "year": 2017,
+    "slug": "call-me-by-your-name-2017",
+    "frameCount": 3802,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0073.png",
+    "colors": [
+      {
+        "hex": "#7d895f",
+        "weight": 0.0843
+      },
+      {
+        "hex": "#b9c29c",
+        "weight": 0.0829
+      },
+      {
+        "hex": "#9a976b",
+        "weight": 0.0811
+      },
+      {
+        "hex": "#c8deba",
+        "weight": 0.0806
+      },
+      {
+        "hex": "#afa984",
+        "weight": 0.0759
+      },
+      {
+        "hex": "#5a6d41",
+        "weight": 0.0747
+      },
+      {
+        "hex": "#827055",
+        "weight": 0.072
+      },
+      {
+        "hex": "#6e513d",
+        "weight": 0.0718
+      },
+      {
+        "hex": "#42573f",
+        "weight": 0.0661
+      },
+      {
+        "hex": "#213420",
+        "weight": 0.0658
+      },
+      {
+        "hex": "#354522",
+        "weight": 0.0621
+      },
+      {
+        "hex": "#533527",
+        "weight": 0.0566
+      },
+      {
+        "hex": "#0f210c",
+        "weight": 0.041
+      },
+      {
+        "hex": "#361716",
+        "weight": 0.0311
+      },
+      {
+        "hex": "#a3b561",
+        "weight": 0.0276
+      },
+      {
+        "hex": "#7aad9c",
+        "weight": 0.0264
+      }
+    ],
+    "similar_ids": [
+      31,
+      107,
+      13,
+      67,
+      116
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Candyman",
+    "year": 1992,
+    "slug": "candyman-1992",
+    "frameCount": 2861,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0074.png",
+    "colors": [
+      {
+        "hex": "#4e371f",
+        "weight": 0.1642
+      },
+      {
+        "hex": "#3f2812",
+        "weight": 0.1537
+      },
+      {
+        "hex": "#5e432c",
+        "weight": 0.1329
+      },
+      {
+        "hex": "#32180b",
+        "weight": 0.1137
+      },
+      {
+        "hex": "#6f4e3a",
+        "weight": 0.0941
+      },
+      {
+        "hex": "#210909",
+        "weight": 0.0919
+      },
+      {
+        "hex": "#7c5b47",
+        "weight": 0.0739
+      },
+      {
+        "hex": "#896c54",
+        "weight": 0.0499
+      },
+      {
+        "hex": "#29345c",
+        "weight": 0.0313
+      },
+      {
+        "hex": "#586494",
+        "weight": 0.0249
+      },
+      {
+        "hex": "#a2845e",
+        "weight": 0.0205
+      },
+      {
+        "hex": "#808bb5",
+        "weight": 0.016
+      },
+      {
+        "hex": "#c0a66b",
+        "weight": 0.0117
+      },
+      {
+        "hex": "#e6d587",
+        "weight": 0.0104
+      },
+      {
+        "hex": "#b1c4e5",
+        "weight": 0.0059
+      },
+      {
+        "hex": "#1d3ae4",
+        "weight": 0.005
+      }
+    ],
+    "similar_ids": [
+      71,
+      36,
+      29,
+      12,
+      68
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Cape Fear",
+    "year": 1991,
+    "slug": "cape-fear-1991",
+    "frameCount": 3680,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0075.png",
+    "colors": [
+      {
+        "hex": "#663f3d",
+        "weight": 0.1928
+      },
+      {
+        "hex": "#4a2a28",
+        "weight": 0.1508
+      },
+      {
+        "hex": "#7c5750",
+        "weight": 0.1395
+      },
+      {
+        "hex": "#371513",
+        "weight": 0.1138
+      },
+      {
+        "hex": "#9b776b",
+        "weight": 0.0732
+      },
+      {
+        "hex": "#641216",
+        "weight": 0.0561
+      },
+      {
+        "hex": "#1d0507",
+        "weight": 0.0472
+      },
+      {
+        "hex": "#1c223c",
+        "weight": 0.0406
+      },
+      {
+        "hex": "#434e2d",
+        "weight": 0.0324
+      },
+      {
+        "hex": "#4b5676",
+        "weight": 0.0294
+      },
+      {
+        "hex": "#313a59",
+        "weight": 0.0271
+      },
+      {
+        "hex": "#c3a596",
+        "weight": 0.0259
+      },
+      {
+        "hex": "#627794",
+        "weight": 0.0252
+      },
+      {
+        "hex": "#a74265",
+        "weight": 0.0199
+      },
+      {
+        "hex": "#9398bd",
+        "weight": 0.0168
+      },
+      {
+        "hex": "#d3d390",
+        "weight": 0.0093
+      }
+    ],
+    "similar_ids": [
+      94,
+      21,
+      63,
+      91,
+      120
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Carlito's Way",
+    "year": 1993,
+    "slug": "carlitos-way-1993",
+    "frameCount": 4150,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0076.png",
+    "colors": [
+      {
+        "hex": "#320c12",
+        "weight": 0.1107
+      },
+      {
+        "hex": "#101636",
+        "weight": 0.1073
+      },
+      {
+        "hex": "#3b191a",
+        "weight": 0.1015
+      },
+      {
+        "hex": "#220407",
+        "weight": 0.0924
+      },
+      {
+        "hex": "#272e54",
+        "weight": 0.0885
+      },
+      {
+        "hex": "#5c3835",
+        "weight": 0.0878
+      },
+      {
+        "hex": "#482827",
+        "weight": 0.0805
+      },
+      {
+        "hex": "#100106",
+        "weight": 0.0618
+      },
+      {
+        "hex": "#475075",
+        "weight": 0.0565
+      },
+      {
+        "hex": "#591221",
+        "weight": 0.0463
+      },
+      {
+        "hex": "#775051",
+        "weight": 0.0451
+      },
+      {
+        "hex": "#7a7895",
+        "weight": 0.0353
+      },
+      {
+        "hex": "#696343",
+        "weight": 0.0302
+      },
+      {
+        "hex": "#862c41",
+        "weight": 0.0257
+      },
+      {
+        "hex": "#b5bcd5",
+        "weight": 0.0157
+      },
+      {
+        "hex": "#b48d8f",
+        "weight": 0.0146
+      }
+    ],
+    "similar_ids": [
+      22,
+      21,
+      63,
+      91,
+      70
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "slug": "catch-me-if-you-can-2002",
+    "frameCount": 4053,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0078.png",
+    "colors": [
+      {
+        "hex": "#4b331e",
+        "weight": 0.1334
+      },
+      {
+        "hex": "#5e4129",
+        "weight": 0.1247
+      },
+      {
+        "hex": "#675235",
+        "weight": 0.1058
+      },
+      {
+        "hex": "#7c5b3d",
+        "weight": 0.0933
+      },
+      {
+        "hex": "#392111",
+        "weight": 0.0906
+      },
+      {
+        "hex": "#896d4c",
+        "weight": 0.0891
+      },
+      {
+        "hex": "#9e825e",
+        "weight": 0.0661
+      },
+      {
+        "hex": "#294864",
+        "weight": 0.0507
+      },
+      {
+        "hex": "#132c44",
+        "weight": 0.0482
+      },
+      {
+        "hex": "#406281",
+        "weight": 0.0422
+      },
+      {
+        "hex": "#597b9c",
+        "weight": 0.0402
+      },
+      {
+        "hex": "#b69c75",
+        "weight": 0.0402
+      },
+      {
+        "hex": "#d0b88b",
+        "weight": 0.0267
+      },
+      {
+        "hex": "#719fb9",
+        "weight": 0.021
+      },
+      {
+        "hex": "#ead4a3",
+        "weight": 0.0172
+      },
+      {
+        "hex": "#9ac7dc",
+        "weight": 0.0106
+      }
+    ],
+    "similar_ids": [
+      68,
+      119,
+      23,
+      15,
+      6
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "slug": "charlie-and-the-chocolate-factory-2005",
+    "frameCount": 3323,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0079.png",
+    "colors": [
+      {
+        "hex": "#7aa3b4",
+        "weight": 0.1555
+      },
+      {
+        "hex": "#6088a0",
+        "weight": 0.1081
+      },
+      {
+        "hex": "#446a85",
+        "weight": 0.0848
+      },
+      {
+        "hex": "#2c516e",
+        "weight": 0.0775
+      },
+      {
+        "hex": "#1e3759",
+        "weight": 0.0717
+      },
+      {
+        "hex": "#491a1c",
+        "weight": 0.0697
+      },
+      {
+        "hex": "#96bdc6",
+        "weight": 0.0674
+      },
+      {
+        "hex": "#2c0a13",
+        "weight": 0.0619
+      },
+      {
+        "hex": "#112637",
+        "weight": 0.0561
+      },
+      {
+        "hex": "#0a1030",
+        "weight": 0.0498
+      },
+      {
+        "hex": "#654a35",
+        "weight": 0.0478
+      },
+      {
+        "hex": "#283f1a",
+        "weight": 0.0417
+      },
+      {
+        "hex": "#92695d",
+        "weight": 0.032
+      },
+      {
+        "hex": "#6f2038",
+        "weight": 0.0303
+      },
+      {
+        "hex": "#61772d",
+        "weight": 0.0294
+      },
+      {
+        "hex": "#ada954",
+        "weight": 0.0164
+      }
+    ],
+    "similar_ids": [
+      80,
+      37,
+      43,
+      41,
+      9
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Chungking Express",
+    "year": 1994,
+    "slug": "chungking-express-1994",
+    "frameCount": 2965,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0080.png",
+    "colors": [
+      {
+        "hex": "#6b8db3",
+        "weight": 0.1302
+      },
+      {
+        "hex": "#4c6d89",
+        "weight": 0.1203
+      },
+      {
+        "hex": "#315462",
+        "weight": 0.0988
+      },
+      {
+        "hex": "#102d3d",
+        "weight": 0.0925
+      },
+      {
+        "hex": "#96b5db",
+        "weight": 0.0807
+      },
+      {
+        "hex": "#254063",
+        "weight": 0.0806
+      },
+      {
+        "hex": "#653c24",
+        "weight": 0.0613
+      },
+      {
+        "hex": "#492412",
+        "weight": 0.0549
+      },
+      {
+        "hex": "#040e27",
+        "weight": 0.0467
+      },
+      {
+        "hex": "#676240",
+        "weight": 0.0406
+      },
+      {
+        "hex": "#261205",
+        "weight": 0.0379
+      },
+      {
+        "hex": "#475fab",
+        "weight": 0.0357
+      },
+      {
+        "hex": "#728a66",
+        "weight": 0.0347
+      },
+      {
+        "hex": "#a44f36",
+        "weight": 0.0297
+      },
+      {
+        "hex": "#cad4c4",
+        "weight": 0.0279
+      },
+      {
+        "hex": "#c1906d",
+        "weight": 0.0275
+      }
+    ],
+    "similar_ids": [
+      45,
+      41,
+      37,
+      96,
+      79
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Clash of the Titans",
+    "year": 2010,
+    "slug": "clash-of-the-titans-2010",
+    "frameCount": 3056,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0082.png",
+    "colors": [
+      {
+        "hex": "#472e18",
+        "weight": 0.0998
+      },
+      {
+        "hex": "#583b24",
+        "weight": 0.0914
+      },
+      {
+        "hex": "#664930",
+        "weight": 0.0859
+      },
+      {
+        "hex": "#73573c",
+        "weight": 0.0853
+      },
+      {
+        "hex": "#371f0d",
+        "weight": 0.0826
+      },
+      {
+        "hex": "#81654a",
+        "weight": 0.0757
+      },
+      {
+        "hex": "#9f8364",
+        "weight": 0.0735
+      },
+      {
+        "hex": "#907355",
+        "weight": 0.0716
+      },
+      {
+        "hex": "#ad9677",
+        "weight": 0.0671
+      },
+      {
+        "hex": "#c2a783",
+        "weight": 0.0638
+      },
+      {
+        "hex": "#d4bb96",
+        "weight": 0.0606
+      },
+      {
+        "hex": "#220f05",
+        "weight": 0.0415
+      },
+      {
+        "hex": "#ead1ae",
+        "weight": 0.0335
+      },
+      {
+        "hex": "#162d2c",
+        "weight": 0.0289
+      },
+      {
+        "hex": "#314b45",
+        "weight": 0.0265
+      },
+      {
+        "hex": "#56798a",
+        "weight": 0.0123
+      }
+    ],
+    "similar_ids": [
+      6,
+      111,
+      17,
+      68,
+      108
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Cloverfield",
+    "year": 2008,
+    "slug": "cloverfield-2008",
+    "frameCount": 2439,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0083.png",
+    "colors": [
+      {
+        "hex": "#3f2211",
+        "weight": 0.1356
+      },
+      {
+        "hex": "#532f16",
+        "weight": 0.116
+      },
+      {
+        "hex": "#2d150b",
+        "weight": 0.0949
+      },
+      {
+        "hex": "#6b3f1e",
+        "weight": 0.0849
+      },
+      {
+        "hex": "#2d5d5e",
+        "weight": 0.0699
+      },
+      {
+        "hex": "#457976",
+        "weight": 0.0658
+      },
+      {
+        "hex": "#17434b",
+        "weight": 0.0657
+      },
+      {
+        "hex": "#082b37",
+        "weight": 0.0602
+      },
+      {
+        "hex": "#87552e",
+        "weight": 0.06
+      },
+      {
+        "hex": "#64978c",
+        "weight": 0.0573
+      },
+      {
+        "hex": "#a3714c",
+        "weight": 0.0449
+      },
+      {
+        "hex": "#82b6a8",
+        "weight": 0.0406
+      },
+      {
+        "hex": "#130103",
+        "weight": 0.0339
+      },
+      {
+        "hex": "#bd9666",
+        "weight": 0.0263
+      },
+      {
+        "hex": "#d9c293",
+        "weight": 0.0255
+      },
+      {
+        "hex": "#add6c9",
+        "weight": 0.0187
+      }
+    ],
+    "similar_ids": [
+      27,
+      29,
+      97,
+      12,
+      58
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Con Air",
+    "year": 1997,
+    "slug": "con-air-1997",
+    "frameCount": 3324,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0085.png",
+    "colors": [
+      {
+        "hex": "#3f1f18",
+        "weight": 0.1208
+      },
+      {
+        "hex": "#6c483c",
+        "weight": 0.1169
+      },
+      {
+        "hex": "#825e4c",
+        "weight": 0.0919
+      },
+      {
+        "hex": "#58322c",
+        "weight": 0.0892
+      },
+      {
+        "hex": "#2a3755",
+        "weight": 0.0707
+      },
+      {
+        "hex": "#4d5a7c",
+        "weight": 0.0624
+      },
+      {
+        "hex": "#3b4968",
+        "weight": 0.0598
+      },
+      {
+        "hex": "#1d253e",
+        "weight": 0.058
+      },
+      {
+        "hex": "#9d765c",
+        "weight": 0.0521
+      },
+      {
+        "hex": "#503c25",
+        "weight": 0.0514
+      },
+      {
+        "hex": "#637195",
+        "weight": 0.0506
+      },
+      {
+        "hex": "#7c90b5",
+        "weight": 0.0484
+      },
+      {
+        "hex": "#1d080e",
+        "weight": 0.0462
+      },
+      {
+        "hex": "#98b0d4",
+        "weight": 0.0345
+      },
+      {
+        "hex": "#c59a75",
+        "weight": 0.027
+      },
+      {
+        "hex": "#cdced5",
+        "weight": 0.0201
+      }
+    ],
+    "similar_ids": [
+      118,
+      70,
+      28,
+      86,
+      99
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Copycat",
+    "year": 1995,
+    "slug": "copycat-1995",
+    "frameCount": 3545,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0086.png",
+    "colors": [
+      {
+        "hex": "#4c261c",
+        "weight": 0.1294
+      },
+      {
+        "hex": "#573e2c",
+        "weight": 0.1277
+      },
+      {
+        "hex": "#6c503e",
+        "weight": 0.1248
+      },
+      {
+        "hex": "#7b674e",
+        "weight": 0.0933
+      },
+      {
+        "hex": "#39140f",
+        "weight": 0.0853
+      },
+      {
+        "hex": "#657fa2",
+        "weight": 0.0556
+      },
+      {
+        "hex": "#84a2c6",
+        "weight": 0.0532
+      },
+      {
+        "hex": "#9b8469",
+        "weight": 0.047
+      },
+      {
+        "hex": "#240806",
+        "weight": 0.0449
+      },
+      {
+        "hex": "#465c83",
+        "weight": 0.0432
+      },
+      {
+        "hex": "#b8c6d5",
+        "weight": 0.0415
+      },
+      {
+        "hex": "#892222",
+        "weight": 0.0412
+      },
+      {
+        "hex": "#11183a",
+        "weight": 0.0364
+      },
+      {
+        "hex": "#1d3117",
+        "weight": 0.0353
+      },
+      {
+        "hex": "#273a5d",
+        "weight": 0.0313
+      },
+      {
+        "hex": "#e7593e",
+        "weight": 0.0099
+      }
+    ],
+    "similar_ids": [
+      28,
+      118,
+      85,
+      113,
+      89
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Creepshow",
+    "year": 1982,
+    "slug": "creepshow-1982",
+    "frameCount": 3470,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0087.png",
+    "colors": [
+      {
+        "hex": "#13224c",
+        "weight": 0.1037
+      },
+      {
+        "hex": "#040b26",
+        "weight": 0.0941
+      },
+      {
+        "hex": "#350b0c",
+        "weight": 0.0891
+      },
+      {
+        "hex": "#49231e",
+        "weight": 0.0884
+      },
+      {
+        "hex": "#613b37",
+        "weight": 0.0846
+      },
+      {
+        "hex": "#1c0103",
+        "weight": 0.0753
+      },
+      {
+        "hex": "#80504e",
+        "weight": 0.0713
+      },
+      {
+        "hex": "#1f321b",
+        "weight": 0.0669
+      },
+      {
+        "hex": "#4c678a",
+        "weight": 0.0594
+      },
+      {
+        "hex": "#2c4072",
+        "weight": 0.0588
+      },
+      {
+        "hex": "#3b4e33",
+        "weight": 0.0529
+      },
+      {
+        "hex": "#770c18",
+        "weight": 0.0415
+      },
+      {
+        "hex": "#708db0",
+        "weight": 0.0368
+      },
+      {
+        "hex": "#497256",
+        "weight": 0.0308
+      },
+      {
+        "hex": "#967864",
+        "weight": 0.028
+      },
+      {
+        "hex": "#acb1a1",
+        "weight": 0.0184
+      }
+    ],
+    "similar_ids": [
+      70,
+      118,
+      62,
+      76,
+      52
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Cries & Whispers",
+    "year": 1972,
+    "slug": "cries-whispers-1972",
+    "frameCount": 2648,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0088.png",
+    "colors": [
+      {
+        "hex": "#230808",
+        "weight": 0.2216
+      },
+      {
+        "hex": "#2f0c0a",
+        "weight": 0.1649
+      },
+      {
+        "hex": "#3c0f0c",
+        "weight": 0.1182
+      },
+      {
+        "hex": "#4a3220",
+        "weight": 0.0559
+      },
+      {
+        "hex": "#501310",
+        "weight": 0.0557
+      },
+      {
+        "hex": "#3c2517",
+        "weight": 0.0553
+      },
+      {
+        "hex": "#593c2a",
+        "weight": 0.0496
+      },
+      {
+        "hex": "#190203",
+        "weight": 0.047
+      },
+      {
+        "hex": "#644935",
+        "weight": 0.0467
+      },
+      {
+        "hex": "#745845",
+        "weight": 0.0467
+      },
+      {
+        "hex": "#7a060b",
+        "weight": 0.0464
+      },
+      {
+        "hex": "#886b58",
+        "weight": 0.0346
+      },
+      {
+        "hex": "#94926e",
+        "weight": 0.0215
+      },
+      {
+        "hex": "#aeb592",
+        "weight": 0.0141
+      },
+      {
+        "hex": "#667755",
+        "weight": 0.0116
+      },
+      {
+        "hex": "#414e2e",
+        "weight": 0.0102
+      }
+    ],
+    "similar_ids": [
+      22,
+      120,
+      63,
+      76,
+      21
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Crouching Tiger Hidden Dragon",
+    "year": 2000,
+    "slug": "crouching-tiger-hidden-dragon-2000",
+    "frameCount": 3462,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0089.png",
+    "colors": [
+      {
+        "hex": "#6d4f3b",
+        "weight": 0.1211
+      },
+      {
+        "hex": "#5d3f2c",
+        "weight": 0.1178
+      },
+      {
+        "hex": "#4d2f1e",
+        "weight": 0.1125
+      },
+      {
+        "hex": "#7f614c",
+        "weight": 0.097
+      },
+      {
+        "hex": "#3f1e11",
+        "weight": 0.095
+      },
+      {
+        "hex": "#2d0e08",
+        "weight": 0.0708
+      },
+      {
+        "hex": "#977a62",
+        "weight": 0.061
+      },
+      {
+        "hex": "#142a10",
+        "weight": 0.06
+      },
+      {
+        "hex": "#1f3b1e",
+        "weight": 0.0598
+      },
+      {
+        "hex": "#071905",
+        "weight": 0.0391
+      },
+      {
+        "hex": "#32502c",
+        "weight": 0.0372
+      },
+      {
+        "hex": "#15283c",
+        "weight": 0.0363
+      },
+      {
+        "hex": "#130308",
+        "weight": 0.0258
+      },
+      {
+        "hex": "#304a5a",
+        "weight": 0.0249
+      },
+      {
+        "hex": "#a8a093",
+        "weight": 0.0219
+      },
+      {
+        "hex": "#55747f",
+        "weight": 0.0197
+      }
+    ],
+    "similar_ids": [
+      55,
+      71,
+      68,
+      90,
+      113
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Days Of Heaven",
+    "year": 1978,
+    "slug": "days-of-heaven-1978",
+    "frameCount": 2707,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0090.png",
+    "colors": [
+      {
+        "hex": "#795b43",
+        "weight": 0.1321
+      },
+      {
+        "hex": "#694a35",
+        "weight": 0.1225
+      },
+      {
+        "hex": "#8e6f54",
+        "weight": 0.1192
+      },
+      {
+        "hex": "#5a3c2a",
+        "weight": 0.0979
+      },
+      {
+        "hex": "#a58566",
+        "weight": 0.083
+      },
+      {
+        "hex": "#4e2f20",
+        "weight": 0.0773
+      },
+      {
+        "hex": "#422317",
+        "weight": 0.0724
+      },
+      {
+        "hex": "#33160e",
+        "weight": 0.0686
+      },
+      {
+        "hex": "#bc9b7a",
+        "weight": 0.0537
+      },
+      {
+        "hex": "#200806",
+        "weight": 0.047
+      },
+      {
+        "hex": "#d6b289",
+        "weight": 0.035
+      },
+      {
+        "hex": "#b1c9e3",
+        "weight": 0.0232
+      },
+      {
+        "hex": "#edce98",
+        "weight": 0.0226
+      },
+      {
+        "hex": "#879ab9",
+        "weight": 0.0193
+      },
+      {
+        "hex": "#202d4b",
+        "weight": 0.0184
+      },
+      {
+        "hex": "#566988",
+        "weight": 0.008
+      }
+    ],
+    "similar_ids": [
+      69,
+      113,
+      55,
+      119,
+      50
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Dead Calm",
+    "year": 1989,
+    "slug": "dead-calm-1989",
+    "frameCount": 2775,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0091.png",
+    "colors": [
+      {
+        "hex": "#401914",
+        "weight": 0.1322
+      },
+      {
+        "hex": "#2e0d0c",
+        "weight": 0.1275
+      },
+      {
+        "hex": "#522a20",
+        "weight": 0.1174
+      },
+      {
+        "hex": "#643b31",
+        "weight": 0.1015
+      },
+      {
+        "hex": "#774c43",
+        "weight": 0.0806
+      },
+      {
+        "hex": "#1c0508",
+        "weight": 0.0639
+      },
+      {
+        "hex": "#8d6058",
+        "weight": 0.054
+      },
+      {
+        "hex": "#7188af",
+        "weight": 0.0526
+      },
+      {
+        "hex": "#5b7296",
+        "weight": 0.0471
+      },
+      {
+        "hex": "#859dc5",
+        "weight": 0.0452
+      },
+      {
+        "hex": "#455d7a",
+        "weight": 0.035
+      },
+      {
+        "hex": "#a9b3d1",
+        "weight": 0.0333
+      },
+      {
+        "hex": "#2d445b",
+        "weight": 0.0327
+      },
+      {
+        "hex": "#af8176",
+        "weight": 0.0321
+      },
+      {
+        "hex": "#bacfea",
+        "weight": 0.0256
+      },
+      {
+        "hex": "#1a283f",
+        "weight": 0.0195
+      }
+    ],
+    "similar_ids": [
+      120,
+      63,
+      21,
+      118,
+      70
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Decoder",
+    "year": 1984,
+    "slug": "decoder-1984",
+    "frameCount": 2551,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0092.png",
+    "colors": [
+      {
+        "hex": "#101231",
+        "weight": 0.132
+      },
+      {
+        "hex": "#232954",
+        "weight": 0.1011
+      },
+      {
+        "hex": "#551d1e",
+        "weight": 0.1007
+      },
+      {
+        "hex": "#2b0909",
+        "weight": 0.1004
+      },
+      {
+        "hex": "#3b416e",
+        "weight": 0.0817
+      },
+      {
+        "hex": "#485c93",
+        "weight": 0.0685
+      },
+      {
+        "hex": "#7c5246",
+        "weight": 0.0625
+      },
+      {
+        "hex": "#802829",
+        "weight": 0.061
+      },
+      {
+        "hex": "#5f80a9",
+        "weight": 0.0512
+      },
+      {
+        "hex": "#346347",
+        "weight": 0.0436
+      },
+      {
+        "hex": "#1f3d22",
+        "weight": 0.0433
+      },
+      {
+        "hex": "#b5484a",
+        "weight": 0.0378
+      },
+      {
+        "hex": "#86b1c0",
+        "weight": 0.037
+      },
+      {
+        "hex": "#ab7867",
+        "weight": 0.036
+      },
+      {
+        "hex": "#569065",
+        "weight": 0.0302
+      },
+      {
+        "hex": "#dbbb82",
+        "weight": 0.0128
+      }
+    ],
+    "similar_ids": [
+      48,
+      87,
+      70,
+      76,
+      9
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Delicatessen",
+    "year": 1991,
+    "slug": "delicatessen-1991",
+    "frameCount": 2861,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0093.png",
+    "colors": [
+      {
+        "hex": "#45280e",
+        "weight": 0.1106
+      },
+      {
+        "hex": "#664018",
+        "weight": 0.0941
+      },
+      {
+        "hex": "#4b3a15",
+        "weight": 0.0914
+      },
+      {
+        "hex": "#82541f",
+        "weight": 0.0831
+      },
+      {
+        "hex": "#32230a",
+        "weight": 0.0804
+      },
+      {
+        "hex": "#391508",
+        "weight": 0.0764
+      },
+      {
+        "hex": "#67511f",
+        "weight": 0.0747
+      },
+      {
+        "hex": "#271004",
+        "weight": 0.0703
+      },
+      {
+        "hex": "#5c2b11",
+        "weight": 0.0583
+      },
+      {
+        "hex": "#a57a33",
+        "weight": 0.0529
+      },
+      {
+        "hex": "#996325",
+        "weight": 0.0481
+      },
+      {
+        "hex": "#806e33",
+        "weight": 0.0454
+      },
+      {
+        "hex": "#1b0302",
+        "weight": 0.0407
+      },
+      {
+        "hex": "#ac904b",
+        "weight": 0.0361
+      },
+      {
+        "hex": "#c9a44f",
+        "weight": 0.0244
+      },
+      {
+        "hex": "#d8cb7e",
+        "weight": 0.0133
+      }
+    ],
+    "similar_ids": [
+      1,
+      35,
+      4,
+      36,
+      25
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Dial M For Murder",
+    "year": 1954,
+    "slug": "dial-m-for-murder-1954",
+    "frameCount": 3036,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0094.png",
+    "colors": [
+      {
+        "hex": "#644036",
+        "weight": 0.1033
+      },
+      {
+        "hex": "#80594c",
+        "weight": 0.1027
+      },
+      {
+        "hex": "#714b3f",
+        "weight": 0.1008
+      },
+      {
+        "hex": "#55352a",
+        "weight": 0.0937
+      },
+      {
+        "hex": "#47291e",
+        "weight": 0.0793
+      },
+      {
+        "hex": "#3a1d15",
+        "weight": 0.0736
+      },
+      {
+        "hex": "#250607",
+        "weight": 0.067
+      },
+      {
+        "hex": "#b18f75",
+        "weight": 0.0639
+      },
+      {
+        "hex": "#2d120d",
+        "weight": 0.0618
+      },
+      {
+        "hex": "#9e6e61",
+        "weight": 0.0498
+      },
+      {
+        "hex": "#887058",
+        "weight": 0.0472
+      },
+      {
+        "hex": "#d7b798",
+        "weight": 0.0443
+      },
+      {
+        "hex": "#3f050b",
+        "weight": 0.036
+      },
+      {
+        "hex": "#671014",
+        "weight": 0.0332
+      },
+      {
+        "hex": "#150101",
+        "weight": 0.0309
+      },
+      {
+        "hex": "#0e1b31",
+        "weight": 0.0124
+      }
+    ],
+    "similar_ids": [
+      75,
+      120,
+      21,
+      52,
+      50
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Dick Tracy",
+    "year": 1990,
+    "slug": "dick-tracy-1990",
+    "frameCount": 2424,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0095.png",
+    "colors": [
+      {
+        "hex": "#2a0606",
+        "weight": 0.1315
+      },
+      {
+        "hex": "#423b1e",
+        "weight": 0.1171
+      },
+      {
+        "hex": "#420508",
+        "weight": 0.1014
+      },
+      {
+        "hex": "#3a2212",
+        "weight": 0.1003
+      },
+      {
+        "hex": "#5f512e",
+        "weight": 0.0973
+      },
+      {
+        "hex": "#160104",
+        "weight": 0.0702
+      },
+      {
+        "hex": "#5c1114",
+        "weight": 0.0634
+      },
+      {
+        "hex": "#7a734b",
+        "weight": 0.0543
+      },
+      {
+        "hex": "#12260c",
+        "weight": 0.0481
+      },
+      {
+        "hex": "#1b2a58",
+        "weight": 0.0436
+      },
+      {
+        "hex": "#080f2e",
+        "weight": 0.0428
+      },
+      {
+        "hex": "#80191e",
+        "weight": 0.0342
+      },
+      {
+        "hex": "#365382",
+        "weight": 0.0332
+      },
+      {
+        "hex": "#a49375",
+        "weight": 0.0278
+      },
+      {
+        "hex": "#8c5162",
+        "weight": 0.023
+      },
+      {
+        "hex": "#b3cd95",
+        "weight": 0.012
+      }
+    ],
+    "similar_ids": [
+      14,
+      16,
+      22,
+      122,
+      52
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Diva",
+    "year": 1981,
+    "slug": "diva-1981",
+    "frameCount": 3359,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0096.png",
+    "colors": [
+      {
+        "hex": "#09112d",
+        "weight": 0.1019
+      },
+      {
+        "hex": "#1c2d4f",
+        "weight": 0.1012
+      },
+      {
+        "hex": "#4b311b",
+        "weight": 0.1007
+      },
+      {
+        "hex": "#3f1b16",
+        "weight": 0.1
+      },
+      {
+        "hex": "#344a6c",
+        "weight": 0.089
+      },
+      {
+        "hex": "#574527",
+        "weight": 0.0857
+      },
+      {
+        "hex": "#685638",
+        "weight": 0.0768
+      },
+      {
+        "hex": "#290b0b",
+        "weight": 0.0714
+      },
+      {
+        "hex": "#4e6784",
+        "weight": 0.0666
+      },
+      {
+        "hex": "#776a49",
+        "weight": 0.058
+      },
+      {
+        "hex": "#6785ab",
+        "weight": 0.0456
+      },
+      {
+        "hex": "#8c835c",
+        "weight": 0.0322
+      },
+      {
+        "hex": "#8ba8d0",
+        "weight": 0.0263
+      },
+      {
+        "hex": "#3d61a6",
+        "weight": 0.0209
+      },
+      {
+        "hex": "#b09d6e",
+        "weight": 0.0146
+      },
+      {
+        "hex": "#c6d2ac",
+        "weight": 0.0089
+      }
+    ],
+    "similar_ids": [
+      9,
+      20,
+      57,
+      44,
+      28
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Do The Right Thing",
+    "year": 1989,
+    "slug": "do-the-right-thing-1989",
+    "frameCount": 3453,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0097.png",
+    "colors": [
+      {
+        "hex": "#3d200f",
+        "weight": 0.1457
+      },
+      {
+        "hex": "#4b321c",
+        "weight": 0.1133
+      },
+      {
+        "hex": "#603d28",
+        "weight": 0.1096
+      },
+      {
+        "hex": "#2b1004",
+        "weight": 0.1096
+      },
+      {
+        "hex": "#86604c",
+        "weight": 0.0683
+      },
+      {
+        "hex": "#6f513c",
+        "weight": 0.0661
+      },
+      {
+        "hex": "#a16c54",
+        "weight": 0.063
+      },
+      {
+        "hex": "#631c12",
+        "weight": 0.0589
+      },
+      {
+        "hex": "#b08976",
+        "weight": 0.0578
+      },
+      {
+        "hex": "#7b432c",
+        "weight": 0.0549
+      },
+      {
+        "hex": "#170101",
+        "weight": 0.0545
+      },
+      {
+        "hex": "#99211c",
+        "weight": 0.0379
+      },
+      {
+        "hex": "#dab58d",
+        "weight": 0.0279
+      },
+      {
+        "hex": "#505a7b",
+        "weight": 0.0117
+      },
+      {
+        "hex": "#1d2846",
+        "weight": 0.011
+      },
+      {
+        "hex": "#abb0ce",
+        "weight": 0.0099
+      }
+    ],
+    "similar_ids": [
+      29,
+      27,
+      121,
+      36,
+      12
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Doctor Zhivago",
+    "year": 1965,
+    "slug": "doctor-zhivago-1965",
+    "frameCount": 4434,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0099.png",
+    "colors": [
+      {
+        "hex": "#7c544b",
+        "weight": 0.0896
+      },
+      {
+        "hex": "#643f37",
+        "weight": 0.0874
+      },
+      {
+        "hex": "#492e22",
+        "weight": 0.0858
+      },
+      {
+        "hex": "#8791b9",
+        "weight": 0.0696
+      },
+      {
+        "hex": "#977162",
+        "weight": 0.0694
+      },
+      {
+        "hex": "#a2a8cf",
+        "weight": 0.0675
+      },
+      {
+        "hex": "#6d799c",
+        "weight": 0.0644
+      },
+      {
+        "hex": "#3b1411",
+        "weight": 0.0639
+      },
+      {
+        "hex": "#4a5733",
+        "weight": 0.0622
+      },
+      {
+        "hex": "#756b3f",
+        "weight": 0.0579
+      },
+      {
+        "hex": "#1b2840",
+        "weight": 0.0553
+      },
+      {
+        "hex": "#516287",
+        "weight": 0.0551
+      },
+      {
+        "hex": "#374565",
+        "weight": 0.0499
+      },
+      {
+        "hex": "#b08d61",
+        "weight": 0.0498
+      },
+      {
+        "hex": "#210507",
+        "weight": 0.0455
+      },
+      {
+        "hex": "#d2c2cf",
+        "weight": 0.0268
+      }
+    ],
+    "similar_ids": [
+      85,
+      70,
+      118,
+      52,
+      62
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Dolls",
+    "year": 2002,
+    "slug": "dolls-2002",
+    "frameCount": 3276,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0101.png",
+    "colors": [
+      {
+        "hex": "#806144",
+        "weight": 0.1173
+      },
+      {
+        "hex": "#362610",
+        "weight": 0.0971
+      },
+      {
+        "hex": "#724931",
+        "weight": 0.0855
+      },
+      {
+        "hex": "#494e28",
+        "weight": 0.0847
+      },
+      {
+        "hex": "#a6786c",
+        "weight": 0.0829
+      },
+      {
+        "hex": "#5d301d",
+        "weight": 0.0782
+      },
+      {
+        "hex": "#847f49",
+        "weight": 0.0615
+      },
+      {
+        "hex": "#212a4c",
+        "weight": 0.0581
+      },
+      {
+        "hex": "#b5322a",
+        "weight": 0.056
+      },
+      {
+        "hex": "#c5938f",
+        "weight": 0.049
+      },
+      {
+        "hex": "#101024",
+        "weight": 0.0483
+      },
+      {
+        "hex": "#414c79",
+        "weight": 0.044
+      },
+      {
+        "hex": "#687397",
+        "weight": 0.0364
+      },
+      {
+        "hex": "#d7c5b7",
+        "weight": 0.0353
+      },
+      {
+        "hex": "#9099ba",
+        "weight": 0.0344
+      },
+      {
+        "hex": "#baa856",
+        "weight": 0.0312
+      }
+    ],
+    "similar_ids": [
+      67,
+      116,
+      113,
+      57,
+      35
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Don't Breathe",
+    "year": 2016,
+    "slug": "dont-breathe-2016",
+    "frameCount": 2550,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0102.png",
+    "colors": [
+      {
+        "hex": "#15392e",
+        "weight": 0.0964
+      },
+      {
+        "hex": "#11291a",
+        "weight": 0.0957
+      },
+      {
+        "hex": "#255142",
+        "weight": 0.082
+      },
+      {
+        "hex": "#3c2110",
+        "weight": 0.08
+      },
+      {
+        "hex": "#3b3e21",
+        "weight": 0.074
+      },
+      {
+        "hex": "#909f7f",
+        "weight": 0.0674
+      },
+      {
+        "hex": "#5a623e",
+        "weight": 0.0648
+      },
+      {
+        "hex": "#584c2e",
+        "weight": 0.0574
+      },
+      {
+        "hex": "#7d815a",
+        "weight": 0.0565
+      },
+      {
+        "hex": "#346b5f",
+        "weight": 0.0559
+      },
+      {
+        "hex": "#a8bfa1",
+        "weight": 0.0548
+      },
+      {
+        "hex": "#161405",
+        "weight": 0.0541
+      },
+      {
+        "hex": "#4f897c",
+        "weight": 0.0483
+      },
+      {
+        "hex": "#c8debf",
+        "weight": 0.0482
+      },
+      {
+        "hex": "#8e643f",
+        "weight": 0.0348
+      },
+      {
+        "hex": "#69301f",
+        "weight": 0.0298
+      }
+    ],
+    "similar_ids": [
+      11,
+      107,
+      7,
+      2,
+      61
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Donnie Darko DIRECTORS CUT",
+    "year": 2001,
+    "slug": "donnie-darko-directors-cut-2001",
+    "frameCount": 3855,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0103.png",
+    "colors": [
+      {
+        "hex": "#55597e",
+        "weight": 0.1166
+      },
+      {
+        "hex": "#424365",
+        "weight": 0.1161
+      },
+      {
+        "hex": "#422a22",
+        "weight": 0.1066
+      },
+      {
+        "hex": "#66719e",
+        "weight": 0.0876
+      },
+      {
+        "hex": "#2d2e4f",
+        "weight": 0.0831
+      },
+      {
+        "hex": "#2b1110",
+        "weight": 0.078
+      },
+      {
+        "hex": "#613e3a",
+        "weight": 0.0664
+      },
+      {
+        "hex": "#7f90bd",
+        "weight": 0.0593
+      },
+      {
+        "hex": "#141632",
+        "weight": 0.0531
+      },
+      {
+        "hex": "#414c2b",
+        "weight": 0.0458
+      },
+      {
+        "hex": "#6c6847",
+        "weight": 0.0446
+      },
+      {
+        "hex": "#8b8660",
+        "weight": 0.0335
+      },
+      {
+        "hex": "#a8b9e3",
+        "weight": 0.0294
+      },
+      {
+        "hex": "#d9d3a3",
+        "weight": 0.0284
+      },
+      {
+        "hex": "#afaa7c",
+        "weight": 0.0268
+      },
+      {
+        "hex": "#3a4790",
+        "weight": 0.0248
+      }
+    ],
+    "similar_ids": [
+      62,
+      76,
+      85,
+      70,
+      99
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Dreams",
+    "year": 1990,
+    "slug": "dreams-1990",
+    "frameCount": 3448,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0106.png",
+    "colors": [
+      {
+        "hex": "#215669",
+        "weight": 0.1337
+      },
+      {
+        "hex": "#16465a",
+        "weight": 0.1118
+      },
+      {
+        "hex": "#276779",
+        "weight": 0.0977
+      },
+      {
+        "hex": "#344924",
+        "weight": 0.0902
+      },
+      {
+        "hex": "#485f34",
+        "weight": 0.0711
+      },
+      {
+        "hex": "#0f3348",
+        "weight": 0.0685
+      },
+      {
+        "hex": "#7c6948",
+        "weight": 0.0651
+      },
+      {
+        "hex": "#263719",
+        "weight": 0.0646
+      },
+      {
+        "hex": "#50818f",
+        "weight": 0.0573
+      },
+      {
+        "hex": "#6faab7",
+        "weight": 0.0436
+      },
+      {
+        "hex": "#350c0d",
+        "weight": 0.0394
+      },
+      {
+        "hex": "#76453f",
+        "weight": 0.0389
+      },
+      {
+        "hex": "#641d1c",
+        "weight": 0.0386
+      },
+      {
+        "hex": "#0c2111",
+        "weight": 0.0307
+      },
+      {
+        "hex": "#92906b",
+        "weight": 0.0294
+      },
+      {
+        "hex": "#a7d1c8",
+        "weight": 0.0194
+      }
+    ],
+    "similar_ids": [
+      43,
+      41,
+      37,
+      9,
+      42
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Dredd",
+    "year": 2012,
+    "slug": "dredd-2012",
+    "frameCount": 2761,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0107.png",
+    "colors": [
+      {
+        "hex": "#24331c",
+        "weight": 0.1081
+      },
+      {
+        "hex": "#5d5831",
+        "weight": 0.1038
+      },
+      {
+        "hex": "#394c32",
+        "weight": 0.096
+      },
+      {
+        "hex": "#51381f",
+        "weight": 0.0806
+      },
+      {
+        "hex": "#846a43",
+        "weight": 0.0669
+      },
+      {
+        "hex": "#3e1712",
+        "weight": 0.066
+      },
+      {
+        "hex": "#5b7151",
+        "weight": 0.0608
+      },
+      {
+        "hex": "#0f1f11",
+        "weight": 0.0604
+      },
+      {
+        "hex": "#9e7d53",
+        "weight": 0.0595
+      },
+      {
+        "hex": "#0d0512",
+        "weight": 0.055
+      },
+      {
+        "hex": "#bab48c",
+        "weight": 0.0511
+      },
+      {
+        "hex": "#809870",
+        "weight": 0.0485
+      },
+      {
+        "hex": "#c19462",
+        "weight": 0.0474
+      },
+      {
+        "hex": "#ddd5b1",
+        "weight": 0.0393
+      },
+      {
+        "hex": "#863b29",
+        "weight": 0.036
+      },
+      {
+        "hex": "#d3cf49",
+        "weight": 0.0206
+      }
+    ],
+    "similar_ids": [
+      16,
+      73,
+      122,
+      102,
+      116
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Drive",
+    "year": 2011,
+    "slug": "drive-2011",
+    "frameCount": 2903,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0108.png",
+    "colors": [
+      {
+        "hex": "#492912",
+        "weight": 0.0989
+      },
+      {
+        "hex": "#5d391f",
+        "weight": 0.0973
+      },
+      {
+        "hex": "#9d7c55",
+        "weight": 0.0824
+      },
+      {
+        "hex": "#c6b589",
+        "weight": 0.0796
+      },
+      {
+        "hex": "#b4966a",
+        "weight": 0.0754
+      },
+      {
+        "hex": "#321a08",
+        "weight": 0.0743
+      },
+      {
+        "hex": "#886744",
+        "weight": 0.0736
+      },
+      {
+        "hex": "#dfd5aa",
+        "weight": 0.0685
+      },
+      {
+        "hex": "#6f5838",
+        "weight": 0.0645
+      },
+      {
+        "hex": "#754425",
+        "weight": 0.064
+      },
+      {
+        "hex": "#133d42",
+        "weight": 0.0559
+      },
+      {
+        "hex": "#042830",
+        "weight": 0.0468
+      },
+      {
+        "hex": "#285454",
+        "weight": 0.0404
+      },
+      {
+        "hex": "#427271",
+        "weight": 0.0336
+      },
+      {
+        "hex": "#70998e",
+        "weight": 0.0269
+      },
+      {
+        "hex": "#b14525",
+        "weight": 0.0179
+      }
+    ],
+    "similar_ids": [
+      15,
+      6,
+      119,
+      25,
+      82
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Duel In The Sun",
+    "year": 1946,
+    "slug": "duel-in-the-sun-1946",
+    "frameCount": 4151,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0109.png",
+    "colors": [
+      {
+        "hex": "#7d553d",
+        "weight": 0.1519
+      },
+      {
+        "hex": "#6c4433",
+        "weight": 0.1292
+      },
+      {
+        "hex": "#5c3527",
+        "weight": 0.1211
+      },
+      {
+        "hex": "#301115",
+        "weight": 0.0825
+      },
+      {
+        "hex": "#472a26",
+        "weight": 0.0735
+      },
+      {
+        "hex": "#8f6959",
+        "weight": 0.0733
+      },
+      {
+        "hex": "#491516",
+        "weight": 0.0672
+      },
+      {
+        "hex": "#a5873a",
+        "weight": 0.0532
+      },
+      {
+        "hex": "#8691b4",
+        "weight": 0.0388
+      },
+      {
+        "hex": "#ab8376",
+        "weight": 0.0387
+      },
+      {
+        "hex": "#1b0409",
+        "weight": 0.0365
+      },
+      {
+        "hex": "#957432",
+        "weight": 0.0348
+      },
+      {
+        "hex": "#9b845b",
+        "weight": 0.03
+      },
+      {
+        "hex": "#a9afd0",
+        "weight": 0.0272
+      },
+      {
+        "hex": "#646f8f",
+        "weight": 0.0212
+      },
+      {
+        "hex": "#c3a082",
+        "weight": 0.0211
+      }
+    ],
+    "similar_ids": [
+      50,
+      115,
+      52,
+      113,
+      21
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Dune",
+    "year": 1984,
+    "slug": "dune-1984",
+    "frameCount": 3925,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0110.png",
+    "colors": [
+      {
+        "hex": "#674227",
+        "weight": 0.1043
+      },
+      {
+        "hex": "#755131",
+        "weight": 0.1019
+      },
+      {
+        "hex": "#55331b",
+        "weight": 0.1004
+      },
+      {
+        "hex": "#895a39",
+        "weight": 0.0929
+      },
+      {
+        "hex": "#412813",
+        "weight": 0.0919
+      },
+      {
+        "hex": "#c2793d",
+        "weight": 0.078
+      },
+      {
+        "hex": "#2e1c13",
+        "weight": 0.0676
+      },
+      {
+        "hex": "#8f7761",
+        "weight": 0.0666
+      },
+      {
+        "hex": "#a8622b",
+        "weight": 0.0589
+      },
+      {
+        "hex": "#de914c",
+        "weight": 0.0544
+      },
+      {
+        "hex": "#364d28",
+        "weight": 0.0345
+      },
+      {
+        "hex": "#537340",
+        "weight": 0.0334
+      },
+      {
+        "hex": "#a29985",
+        "weight": 0.0325
+      },
+      {
+        "hex": "#1e0c05",
+        "weight": 0.0308
+      },
+      {
+        "hex": "#34486c",
+        "weight": 0.0302
+      },
+      {
+        "hex": "#e4c38c",
+        "weight": 0.0217
+      }
+    ],
+    "similar_ids": [
+      1,
+      68,
+      35,
+      36,
+      29
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Dune",
+    "year": 2021,
+    "slug": "dune-2021",
+    "frameCount": 4477,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0111.png",
+    "colors": [
+      {
+        "hex": "#422512",
+        "weight": 0.1296
+      },
+      {
+        "hex": "#73502f",
+        "weight": 0.1239
+      },
+      {
+        "hex": "#5a3a1f",
+        "weight": 0.1182
+      },
+      {
+        "hex": "#b9a181",
+        "weight": 0.1175
+      },
+      {
+        "hex": "#9e8668",
+        "weight": 0.1128
+      },
+      {
+        "hex": "#866a4c",
+        "weight": 0.1115
+      },
+      {
+        "hex": "#2e1009",
+        "weight": 0.0637
+      },
+      {
+        "hex": "#d1b58f",
+        "weight": 0.063
+      },
+      {
+        "hex": "#b56820",
+        "weight": 0.0356
+      },
+      {
+        "hex": "#f6d07f",
+        "weight": 0.0226
+      },
+      {
+        "hex": "#80a1b5",
+        "weight": 0.02
+      },
+      {
+        "hex": "#446879",
+        "weight": 0.0196
+      },
+      {
+        "hex": "#2d515c",
+        "weight": 0.0161
+      },
+      {
+        "hex": "#5f8295",
+        "weight": 0.016
+      },
+      {
+        "hex": "#002014",
+        "weight": 0.0157
+      },
+      {
+        "hex": "#10383b",
+        "weight": 0.0143
+      }
+    ],
+    "similar_ids": [
+      82,
+      6,
+      17,
+      112,
+      119
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Dune Part Two",
+    "year": 2024,
+    "slug": "dune-part-two-2024",
+    "frameCount": 4776,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0112.png",
+    "colors": [
+      {
+        "hex": "#4a1f0e",
+        "weight": 0.0965
+      },
+      {
+        "hex": "#715339",
+        "weight": 0.0834
+      },
+      {
+        "hex": "#3a150a",
+        "weight": 0.0825
+      },
+      {
+        "hex": "#bda586",
+        "weight": 0.0822
+      },
+      {
+        "hex": "#582d16",
+        "weight": 0.0819
+      },
+      {
+        "hex": "#856649",
+        "weight": 0.0812
+      },
+      {
+        "hex": "#5f412b",
+        "weight": 0.0749
+      },
+      {
+        "hex": "#ac9171",
+        "weight": 0.0696
+      },
+      {
+        "hex": "#977c5e",
+        "weight": 0.0644
+      },
+      {
+        "hex": "#93390c",
+        "weight": 0.0579
+      },
+      {
+        "hex": "#af4e12",
+        "weight": 0.0545
+      },
+      {
+        "hex": "#280f0d",
+        "weight": 0.0526
+      },
+      {
+        "hex": "#792705",
+        "weight": 0.0511
+      },
+      {
+        "hex": "#d6bc9b",
+        "weight": 0.0339
+      },
+      {
+        "hex": "#be743c",
+        "weight": 0.0281
+      },
+      {
+        "hex": "#0f3856",
+        "weight": 0.0054
+      }
+    ],
+    "similar_ids": [
+      111,
+      90,
+      6,
+      17,
+      82
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Easy Rider",
+    "year": 1969,
+    "slug": "easy-rider-1969",
+    "frameCount": 2757,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0113.png",
+    "colors": [
+      {
+        "hex": "#643c2a",
+        "weight": 0.1159
+      },
+      {
+        "hex": "#391c10",
+        "weight": 0.1108
+      },
+      {
+        "hex": "#502a1b",
+        "weight": 0.1072
+      },
+      {
+        "hex": "#7a5040",
+        "weight": 0.1002
+      },
+      {
+        "hex": "#a07c65",
+        "weight": 0.092
+      },
+      {
+        "hex": "#83694b",
+        "weight": 0.0794
+      },
+      {
+        "hex": "#5f532f",
+        "weight": 0.0638
+      },
+      {
+        "hex": "#b7937b",
+        "weight": 0.0562
+      },
+      {
+        "hex": "#956257",
+        "weight": 0.0445
+      },
+      {
+        "hex": "#516b87",
+        "weight": 0.0432
+      },
+      {
+        "hex": "#42361a",
+        "weight": 0.0427
+      },
+      {
+        "hex": "#260c08",
+        "weight": 0.0407
+      },
+      {
+        "hex": "#798aa3",
+        "weight": 0.0319
+      },
+      {
+        "hex": "#334865",
+        "weight": 0.0267
+      },
+      {
+        "hex": "#11203e",
+        "weight": 0.023
+      },
+      {
+        "hex": "#cab1b1",
+        "weight": 0.0217
+      }
+    ],
+    "similar_ids": [
+      90,
+      50,
+      27,
+      28,
+      68
+    ]
+  },
+  {
+    "id": 115,
+    "title": "El Angel",
+    "year": 2018,
+    "slug": "el-angel-2018",
+    "frameCount": 3302,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0115.png",
+    "colors": [
+      {
+        "hex": "#421b12",
+        "weight": 0.121
+      },
+      {
+        "hex": "#502a1c",
+        "weight": 0.1169
+      },
+      {
+        "hex": "#320f0b",
+        "weight": 0.1115
+      },
+      {
+        "hex": "#5b402a",
+        "weight": 0.0973
+      },
+      {
+        "hex": "#70533a",
+        "weight": 0.0905
+      },
+      {
+        "hex": "#1f0506",
+        "weight": 0.0655
+      },
+      {
+        "hex": "#a37c5e",
+        "weight": 0.0528
+      },
+      {
+        "hex": "#24494b",
+        "weight": 0.0505
+      },
+      {
+        "hex": "#7c7054",
+        "weight": 0.05
+      },
+      {
+        "hex": "#3e6868",
+        "weight": 0.0468
+      },
+      {
+        "hex": "#772d22",
+        "weight": 0.0443
+      },
+      {
+        "hex": "#94563f",
+        "weight": 0.0434
+      },
+      {
+        "hex": "#122f30",
+        "weight": 0.0355
+      },
+      {
+        "hex": "#c09b79",
+        "weight": 0.0337
+      },
+      {
+        "hex": "#68979e",
+        "weight": 0.0244
+      },
+      {
+        "hex": "#ddc8ad",
+        "weight": 0.0158
+      }
+    ],
+    "similar_ids": [
+      27,
+      66,
+      113,
+      52,
+      50
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Elvira Madigan",
+    "year": 1967,
+    "slug": "elvira-madigan-1967",
+    "frameCount": 2501,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0116.png",
+    "colors": [
+      {
+        "hex": "#76623d",
+        "weight": 0.099
+      },
+      {
+        "hex": "#624025",
+        "weight": 0.0982
+      },
+      {
+        "hex": "#866f49",
+        "weight": 0.0895
+      },
+      {
+        "hex": "#532e18",
+        "weight": 0.0894
+      },
+      {
+        "hex": "#774e31",
+        "weight": 0.0808
+      },
+      {
+        "hex": "#3e1d0b",
+        "weight": 0.0737
+      },
+      {
+        "hex": "#5a5730",
+        "weight": 0.0681
+      },
+      {
+        "hex": "#8b8257",
+        "weight": 0.0641
+      },
+      {
+        "hex": "#424420",
+        "weight": 0.0633
+      },
+      {
+        "hex": "#353315",
+        "weight": 0.0591
+      },
+      {
+        "hex": "#9d956c",
+        "weight": 0.046
+      },
+      {
+        "hex": "#261303",
+        "weight": 0.0449
+      },
+      {
+        "hex": "#1d260a",
+        "weight": 0.0428
+      },
+      {
+        "hex": "#b1b281",
+        "weight": 0.0356
+      },
+      {
+        "hex": "#d0d2a5",
+        "weight": 0.0228
+      },
+      {
+        "hex": "#1a0500",
+        "weight": 0.0226
+      }
+    ],
+    "similar_ids": [
+      35,
+      33,
+      25,
+      23,
+      119
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "slug": "eternal-sunshine-of-the-spotless-mind-2004",
+    "frameCount": 3107,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0118.png",
+    "colors": [
+      {
+        "hex": "#46221a",
+        "weight": 0.1127
+      },
+      {
+        "hex": "#725141",
+        "weight": 0.0947
+      },
+      {
+        "hex": "#2f0f0c",
+        "weight": 0.0867
+      },
+      {
+        "hex": "#523727",
+        "weight": 0.0829
+      },
+      {
+        "hex": "#6c362f",
+        "weight": 0.0783
+      },
+      {
+        "hex": "#140103",
+        "weight": 0.0692
+      },
+      {
+        "hex": "#88a6c3",
+        "weight": 0.0651
+      },
+      {
+        "hex": "#9a7460",
+        "weight": 0.0635
+      },
+      {
+        "hex": "#6b809f",
+        "weight": 0.0545
+      },
+      {
+        "hex": "#1a2944",
+        "weight": 0.0499
+      },
+      {
+        "hex": "#4e5f7d",
+        "weight": 0.0488
+      },
+      {
+        "hex": "#344563",
+        "weight": 0.0467
+      },
+      {
+        "hex": "#b1ccd9",
+        "weight": 0.0446
+      },
+      {
+        "hex": "#9a4d48",
+        "weight": 0.0366
+      },
+      {
+        "hex": "#030c26",
+        "weight": 0.0363
+      },
+      {
+        "hex": "#c19b82",
+        "weight": 0.0295
+      }
+    ],
+    "similar_ids": [
+      70,
+      52,
+      85,
+      28,
+      86
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Everything Everywhere All At Once",
+    "year": 2022,
+    "slug": "everything-everywhere-all-at-once-2022",
+    "frameCount": 4013,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0119.png",
+    "colors": [
+      {
+        "hex": "#573c23",
+        "weight": 0.1291
+      },
+      {
+        "hex": "#8b6d4b",
+        "weight": 0.1215
+      },
+      {
+        "hex": "#6d5a3b",
+        "weight": 0.1067
+      },
+      {
+        "hex": "#432415",
+        "weight": 0.1024
+      },
+      {
+        "hex": "#a18562",
+        "weight": 0.0914
+      },
+      {
+        "hex": "#320f0d",
+        "weight": 0.0654
+      },
+      {
+        "hex": "#b5a27b",
+        "weight": 0.0622
+      },
+      {
+        "hex": "#7f4629",
+        "weight": 0.0581
+      },
+      {
+        "hex": "#11302c",
+        "weight": 0.0488
+      },
+      {
+        "hex": "#1a4246",
+        "weight": 0.0473
+      },
+      {
+        "hex": "#cdcdb7",
+        "weight": 0.0329
+      },
+      {
+        "hex": "#58818b",
+        "weight": 0.0322
+      },
+      {
+        "hex": "#325d6a",
+        "weight": 0.0313
+      },
+      {
+        "hex": "#87a6bb",
+        "weight": 0.0251
+      },
+      {
+        "hex": "#6a1818",
+        "weight": 0.0235
+      },
+      {
+        "hex": "#0b1b32",
+        "weight": 0.0222
+      }
+    ],
+    "similar_ids": [
+      78,
+      15,
+      69,
+      68,
+      23
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Everything You Always Wanted To Know About Sex _ But Were Afraid To Ask",
+    "year": 1972,
+    "slug": "everything-you-always-wanted-to-know-about-sex-but-were-afraid-to-ask-1972",
+    "frameCount": 2542,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0120.png",
+    "colors": [
+      {
+        "hex": "#442119",
+        "weight": 0.1729
+      },
+      {
+        "hex": "#31140f",
+        "weight": 0.1703
+      },
+      {
+        "hex": "#5a3532",
+        "weight": 0.1351
+      },
+      {
+        "hex": "#210607",
+        "weight": 0.0993
+      },
+      {
+        "hex": "#79504b",
+        "weight": 0.0848
+      },
+      {
+        "hex": "#42341c",
+        "weight": 0.0619
+      },
+      {
+        "hex": "#5d4a32",
+        "weight": 0.0603
+      },
+      {
+        "hex": "#957163",
+        "weight": 0.0512
+      },
+      {
+        "hex": "#b79475",
+        "weight": 0.0373
+      },
+      {
+        "hex": "#516487",
+        "weight": 0.0285
+      },
+      {
+        "hex": "#303a58",
+        "weight": 0.0282
+      },
+      {
+        "hex": "#e1bc8d",
+        "weight": 0.019
+      },
+      {
+        "hex": "#7793b8",
+        "weight": 0.0174
+      },
+      {
+        "hex": "#781719",
+        "weight": 0.0171
+      },
+      {
+        "hex": "#b2d5e7",
+        "weight": 0.0088
+      },
+      {
+        "hex": "#bf2629",
+        "weight": 0.0081
+      }
+    ],
+    "similar_ids": [
+      63,
+      66,
+      91,
+      53,
+      94
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "slug": "eyes-wide-shut-1999",
+    "frameCount": 4580,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0121.png",
+    "colors": [
+      {
+        "hex": "#6d4126",
+        "weight": 0.1222
+      },
+      {
+        "hex": "#563218",
+        "weight": 0.1205
+      },
+      {
+        "hex": "#3e240e",
+        "weight": 0.1105
+      },
+      {
+        "hex": "#3c1209",
+        "weight": 0.0994
+      },
+      {
+        "hex": "#260905",
+        "weight": 0.0837
+      },
+      {
+        "hex": "#89503d",
+        "weight": 0.0818
+      },
+      {
+        "hex": "#926e4f",
+        "weight": 0.0656
+      },
+      {
+        "hex": "#611911",
+        "weight": 0.0637
+      },
+      {
+        "hex": "#1e265a",
+        "weight": 0.0569
+      },
+      {
+        "hex": "#b28d6b",
+        "weight": 0.0447
+      },
+      {
+        "hex": "#0f0f2d",
+        "weight": 0.0397
+      },
+      {
+        "hex": "#3c3e62",
+        "weight": 0.0253
+      },
+      {
+        "hex": "#253a9c",
+        "weight": 0.0241
+      },
+      {
+        "hex": "#4760a0",
+        "weight": 0.0236
+      },
+      {
+        "hex": "#cdc1a0",
+        "weight": 0.0198
+      },
+      {
+        "hex": "#6b85d1",
+        "weight": 0.0184
+      }
+    ],
+    "similar_ids": [
+      97,
+      1,
+      27,
+      26,
+      29
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Fallen Angels",
+    "year": 1995,
+    "slug": "fallen-angels-1995",
+    "frameCount": 2846,
+    "barcode_path": "C:\\Users\\avinash\\Documents\\cinechroma_v3\\cinechroma_output\\barcodes\\film_0122.png",
+    "colors": [
+      {
+        "hex": "#401810",
+        "weight": 0.1221
+      },
+      {
+        "hex": "#3a3018",
+        "weight": 0.1029
+      },
+      {
+        "hex": "#5e281b",
+        "weight": 0.0955
+      },
+      {
+        "hex": "#394426",
+        "weight": 0.0921
+      },
+      {
+        "hex": "#280d0a",
+        "weight": 0.0894
+      },
+      {
+        "hex": "#684228",
+        "weight": 0.0848
+      },
+      {
+        "hex": "#4d5b35",
+        "weight": 0.0717
+      },
+      {
+        "hex": "#192711",
+        "weight": 0.0667
+      },
+      {
+        "hex": "#8c4a35",
+        "weight": 0.06
+      },
+      {
+        "hex": "#737140",
+        "weight": 0.0465
+      },
+      {
+        "hex": "#a27456",
+        "weight": 0.0397
+      },
+      {
+        "hex": "#98a279",
+        "weight": 0.0309
+      },
+      {
+        "hex": "#3e7775",
+        "weight": 0.0276
+      },
+      {
+        "hex": "#d4cf92",
+        "weight": 0.0264
+      },
+      {
+        "hex": "#e1905e",
+        "weight": 0.0261
+      },
+      {
+        "hex": "#cd4b3d",
+        "weight": 0.0176
+      }
+    ],
+    "similar_ids": [
+      46,
+      16,
+      49,
+      115,
+      97
     ]
   }
 ]

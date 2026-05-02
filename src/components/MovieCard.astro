@@ -3,11 +3,11 @@
  * MovieCard.astro — A single movie entry in the homepage grid.
  *
  * Shows the color strip image as the hero visual, with the movie
- * title, year, and overall palette dots below. The strip is the
- * star — it's what makes each movie visually unique at a glance.
+ * title, year, and top 5 palette dots below.
  */
 const { movie } = Astro.props;
-const overallPalette = movie.palettes?.overall || [];
+// Take the top 5 colors (already sorted by weight desc from build-data)
+const topColors = (movie.colors || []).slice(0, 5);
 ---
 
 <a
@@ -33,14 +33,14 @@ const overallPalette = movie.palettes?.overall || [];
       <span class="text-xs text-text-tertiary">{movie.year}</span>
     </div>
 
-    <!-- Overall palette dots — 5 small circles showing the movie's color DNA -->
-    {overallPalette.length > 0 && (
+    <!-- Top 5 palette dots — color DNA of the film -->
+    {topColors.length > 0 && (
       <div class="flex gap-1 shrink-0">
-        {overallPalette.map((hex) => (
+        {topColors.map((c) => (
           <div
             class="w-3 h-3 rounded-full border border-white/10"
-            style={`background-color: ${hex};`}
-            title={hex}
+            style={`background-color: ${c.hex};`}
+            title={`${c.hex} (${Math.round(c.weight * 100)}%)`}
           />
         ))}
       </div>

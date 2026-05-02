@@ -2,15 +2,11 @@
 /**
  * [slug].astro — Dynamic movie detail page.
  *
- * Generated at build time for each movie via getStaticPaths().
- * Shows the full color analysis: large strip, palette breakdown
- * by luminance band (light / medium / dark / overall), and
- * the palette grid image from cinechroma.
- *
- * The palette section uses large swatches so you can really
- * appreciate each color. Hex values appear on hover.
+ * Shows: full color strip, 16-color palette with weight bars,
+ * and a "Similar Films" section based on OKLAB histogram cosine similarity.
  */
 import Layout from "../../layouts/Layout.astro";
+import MovieCard from "../../components/MovieCard.astro";
 import movies from "../../data/movies.json";
 
 export function getStaticPaths() {
@@ -22,16 +18,11 @@ export function getStaticPaths() {
 
 const { movie } = Astro.props;
 
-/* Band labels — human-friendly names for each luminance band */
-const bandLabels = {
-  overall: "Overall",
-  light: "Highlights",
-  medium: "Midtones",
-  dark: "Shadows",
-};
-
-/* Order we want to display the bands */
-const bandOrder = ["overall", "light", "medium", "dark"];
+// Build a slug → movie map for resolving similar films
+const movieBySlug = Object.fromEntries(movies.map((m) => [m.slug, m]));
+const similarMovies = (movie.similar || [])
+  .map((s) => movieBySlug[s])
+  .filter(Boolean);
 ---
 
 <Layout
@@ -79,65 +70,59 @@ const bandOrder = ["overall", "light", "medium", "dark"];
     </p>
   </section>
 
-  <!-- Palette breakdown — 4 luminance bands -->
+  <!-- 16-color palette with weight bars -->
   <section class="mb-14 md:mb-20">
     <h2 class="text-xs uppercase tracking-widest text-text-tertiary mb-8">
-      Color Palettes
+      Colour Palette
     </h2>
-
-    <div class="space-y-10">
-      {bandOrder.map((band) => {
-        const colors = movie.palettes?.[band] || [];
-        if (colors.length === 0) return null;
-
+    <div class="grid grid-cols-8 sm:grid-cols-8 md:grid-cols-16 gap-2">
+      {(movie.colors || []).map((c) => {
+        const weightPct = Math.round(c.weight * 100);
+        const barH = Math.max(2, Math.round(c.weight * 400)); // max ~40px bar
         return (
-          <div>
-            <h3 class="text-sm font-medium text-text-secondary mb-3">
-              {bandLabels[band]}
-              <span class="text-text-tertiary font-normal ml-2 text-xs">
-                {band === "overall"
-                  ? "all luminance levels combined"
-                  : band === "light"
-                    ? "L > 70 — bright areas, highlights, skies"
-                    : band === "medium"
-                      ? "30 < L ≤ 70 — skin tones, environments"
-                      : "L ≤ 30 — shadows, mood, night scenes"}
-              </span>
-            </h3>
-            <div class="flex flex-wrap gap-2 sm:gap-3">
-              {colors.map((hex) => (
-                <div class="swatch group w-[calc(20%-0.4rem)] sm:w-[calc(10%-0.675rem)] min-w-[3rem]">
-                  <div
-                    class="aspect-square rounded-lg border border-white/10 cursor-pointer"
-                    style={`background-color: ${hex};`}
-                    title={hex}
-                  />
-                  <p class="swatch-label text-[10px] text-text-tertiary text-center mt-1.5 font-mono">
-                    {hex}
-                  </p>
-                </div>
-              ))}
+          <div class="flex flex-col items-center gap-1 group min-w-0">
+            <!-- Weight bar -->
+            <div class="w-full flex items-end justify-center" style="height: 40px;">
+              <div
+                class="w-5 rounded-t-sm opacity-80"
+                style={`background-color: ${c.hex}; height: ${barH}px;`}
+                title={`${weightPct}%`}
+              />
             </div>
+            <!-- Swatch -->
+            <div
+              class="w-full aspect-square rounded border border-white/10"
+              style={`background-color: ${c.hex};`}
+            />
+            <!-- Hex label — always visible -->
+            <p class="text-[9px] font-mono text-text-tertiary text-center leading-tight">
+              {c.hex}
+            </p>
+            <p class="text-[9px] text-text-tertiary text-center">{weightPct}%</p>
           </div>
         );
       })}
     </div>
-  </section>
-
-  <!-- Palette grid image -->
-  <section class="mb-14 md:mb-20">
-    <h2 class="text-xs uppercase tracking-widest text-text-tertiary mb-4">
-      Palette Grid
-    </h2>
-    <div class="max-w-md rounded-lg overflow-hidden border border-border">
-      <img
-        src={`/movies/${movie.slug}/palette.png`}
-        alt={`Palette grid for ${movie.title}`}
-        class="w-full"
-      />
-    </div>
-    <p class="text-xs text-text-tertiary mt-3">
-      Rows top → bottom: highlights, midtones, shadows, overall. Five dominant colors per band.
+    <p class="text-xs text-text-tertiary mt-4">
+      16 dominant colors extracted via MiniBatchKMeans in OKLAB space. Bar height proportional to color frequency.
+      Near-black, near-white, and near-grey pixels excluded before clustering.
     </p>
   </section>
+
+  <!-- Similar films -->
+  {similarMovies.length > 0 && (
+    <section class="mb-14 md:mb-20">
+      <h2 class="text-xs uppercase tracking-widest text-text-tertiary mb-6">
+        Similar Films
+      </h2>
+      <p class="text-xs text-text-tertiary mb-6">
+        Based on cosine similarity of OKLAB color histograms across {movie.frameCount.toLocaleString()} analyzed frames.
+      </p>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+        {similarMovies.map((sim) => (
+          <MovieCard movie={sim} />
+        ))}
+      </div>
+    </section>
+  )}
 </Layout>

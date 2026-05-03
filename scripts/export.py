@@ -24,6 +24,22 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
+def _clean_title(title: str) -> str:
+    """Normalise a raw title string: replace dots/underscores with spaces, collapse whitespace."""
+    # Replace underscores with space
+    title = title.replace('_', ' ')
+    # Replace dots used as word separators (not decimals or abbreviations like "Vol.")
+    # A dot is a separator if surrounded by word chars on both sides and not preceded by a single letter
+    title = re.sub(r'(?<=[a-z0-9])\.(?=[A-Z])', ' ', title)   # camelDot
+    title = re.sub(r'(?<=[A-Z])\.(?=[A-Z])', ' ', title)        # ALLDOTS
+    title = re.sub(r'\b([A-Z][a-z]+)\.([A-Z])', r'\1 \2', title)  # Word.Word
+    # Replace remaining isolated dots (dot with spaces/start/end around it)
+    title = re.sub(r'\s*\.\s*', ' ', title)
+    # Collapse multiple spaces
+    title = re.sub(r' +', ' ', title).strip()
+    return title
+
+
 def parse_title_year(raw_title: str, video_path: str) -> tuple[str, int | None]:
     """
     Try to get a clean title + year from the DB title or the video path's
@@ -45,7 +61,8 @@ def parse_title_year(raw_title: str, video_path: str) -> tuple[str, int | None]:
         # "Title (Year)" or "Title (Year) [extra]"
         m = re.match(r'^(.+?)\s*\((\d{4})\)', candidate)
         if m:
-            return m.group(1).strip(), int(m.group(2))
+            title = _clean_title(m.group(1).strip())
+            return title, int(m.group(2))
 
         # Dot-separated: "Title.Year.1080p..."
         parts = re.split(r'[.\s]+', candidate)
@@ -55,14 +72,14 @@ def parse_title_year(raw_title: str, video_path: str) -> tuple[str, int | None]:
                 year_idx = i
                 break
         if year_idx > 0:
-            title = ' '.join(parts[:year_idx])
+            title = _clean_title(' '.join(parts[:year_idx]))
             return title, int(parts[year_idx])
 
     # Fallback
     year_m = re.search(r'(1[89]\d\d|20[012]\d)', raw_title or '')
     year = int(year_m.group(1)) if year_m else None
     title = re.sub(r'[\(\[].+$', '', raw_title or '').strip() or raw_title
-    return title, year
+    return _clean_title(title), year
 
 
 def slugify(title: str, year: int | None) -> str:

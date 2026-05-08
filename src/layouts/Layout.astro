@@ -13,7 +13,8 @@ import "../styles/global.css";
 const {
   title = "cinechroma — decoding cinema's color DNA",
   description = "Explore the hidden color palettes of iconic films. Every frame analyzed, every hue extracted.",
-  ogUrl = "https://cinechroma.avinashaldhapati.com/",
+  ogUrl = "https://deep0ctave.github.io/cinechroma_registry/",
+  ogImage = "https://deep0ctave.github.io/cinechroma_registry/og-image.png",
 } = Astro.props;
 ---
 
@@ -43,12 +44,21 @@ const {
 
     <title>{title}</title>
     <meta name="description" content={description} />
-    <meta name="author" content="Avinash Aldhapati" />
 
+    <!-- Open Graph -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={ogUrl} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="200" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
   </head>
 
   <body class="min-h-screen flex flex-col">
